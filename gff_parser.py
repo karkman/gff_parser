@@ -2,6 +2,7 @@
 
 ## Antti Karkman
 ## University of Gothenburg
+## antti.karkman@gmail.com
 ## 2017
 
 import gffutils
