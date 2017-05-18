@@ -12,7 +12,7 @@ import argparse
 parser = argparse.ArgumentParser(description="""Parse Prokka annotated genome/metagenome to add external gene calls and functions to anvi'o. 
                     Input annotation in GFF3 format, outputs are tab-delimited text files, one for gene calls and one for annotations""")
 parser.add_argument('gff_file', metavar='GFF3', help='Annotation file from Prokka in GFF3 format')
-parser.add_argument('--gene_calls', default='gene_calls.txt', help='Output: External gene calls (Default: gene_calls.txt)')
+parser.add_argument('--gene-calls', default='gene_calls.txt', help='Output: External gene calls (Default: gene_calls.txt)')
 parser.add_argument('--annotation', default='gene_annot.txt', help='Output: Functional annotation for external gene calls (Default: gene_annot.txt)')
 parser.add_argument('--process-all', default=False, action="store_true", help="Prodigal returns anything it finds, including tRNAs and\
                     other genetic structures that are not nessecarily translatable, and can cause downstream issues especially if you would like to\
