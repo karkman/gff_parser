@@ -67,7 +67,7 @@ for feature in db.all_features():
 
     # skip if hypotethical proiten:
     if product == 'hypothetical protein':
-        continue
+        product = ""
 
     # determine direction
     if feature.featuretype=='repeat_region':
@@ -77,8 +77,8 @@ for feature in db.all_features():
             direction='f'
         else:
             direction='r'
-
+    
     OUT_CDS.write('%d\t%s\t%d\t%d\t%s\t%s\t%s\t%s\n' %(gene_id, feature.seqid, start, stop, direction, partial, source, version))
-    OUT_ANNO.write('%d\t%s\t%s\t%s\t%s\n' % (gene_id, 'Prokka', gene_acc, product, e_value))
+    OUT_ANNO.write('%d\t%s%s\t%s\t%s\t%s\n' % (gene_id, 'Prokka:', source, gene_acc, product, e_value))
 
     gene_id = gene_id + 1
