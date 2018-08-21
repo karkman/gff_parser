@@ -74,7 +74,7 @@ for feature in db.all_features():
     if feature.featuretype=='repeat_region':
         direction='f'
     else:
-        if feature.strand==' + ':
+        if feature.strand=='+':
             direction='f'
         else:
             direction='r'
