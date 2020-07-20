@@ -3,13 +3,15 @@
 ## Antti Karkman
 ## University of Gothenburg
 ## antti.karkman@gmail.com
-## 2017
+## 2020 (tested with anvi'o v6.2, and should work with anything after)
 
 import gffutils
 import argparse
 
+from collections import Counter
+
 #parse the arguments
-parser = argparse.ArgumentParser(description="""Parse Prokka annotated genome/metagenome to add external gene calls and functions to anvi'o. 
+parser = argparse.ArgumentParser(description="""Parse Prokka annotated genome/metagenome to add external gene calls and functions to anvi'o.
                     Input annotation in GFF3 format, outputs are tab-delimited text files, one for gene calls and one for annotations""")
 parser.add_argument('gff_file', metavar='GFF3', help='Annotation file from Prokka in GFF3 format')
 parser.add_argument('--gene-calls', default='gene_calls.txt', help='Output: External gene calls (Default: gene_calls.txt)')
@@ -37,8 +39,15 @@ OUT_ANNO.write("gene_callers_id\tsource\taccession\tfunction\te_value\n")
 gene_id = 1
 e_value = "0"
 
+# keping track of things we haven't processed
+feature_types = Counter()
+call_types = Counter()
+total_num_features = 0
+features_missing_product_or_note = 0
+
 #parse the GFF3 file and write results to output files
 for feature in db.all_features():
+    total_num_features += 1
     # determine source
     source, version = feature.source.split(':')
 
@@ -50,6 +59,17 @@ for feature in db.all_features():
     start = feature.start - 1
     stop = feature.stop
 
+    feature_types[feature.featuretype] += 1
+    if feature.featuretype == 'CDS':
+        call_type = 1
+        call_types['CDS'] += 1
+    elif 'RNA' in feature.featuretype:
+        call_type = 2
+        call_types['RNA'] += 1
+    else:
+        call_type = 3
+        call_types['unknown'] += 1
+
     if (float(start - stop)/float(3)).is_integer() == True:
         partial = str(0)
     else:
@@ -59,6 +79,11 @@ for feature in db.all_features():
         gene_acc = feature.attributes['gene'][0]
     except KeyError:
         gene_acc = ""
+
+    # if a feature is missing both, move on.
+    if 'product' not in feature.attributes.keys() and 'note' not in feature.attributes.keys():
+        features_missing_product_or_note += 1
+        continue
 
     try:
         product = feature.attributes['product'][0]
@@ -78,8 +103,16 @@ for feature in db.all_features():
             direction='f'
         else:
             direction='r'
-    
-    OUT_CDS.write('%d\t%s\t%d\t%d\t%s\t%s\t%s\t%s\n' %(gene_id, feature.seqid, start, stop, direction, partial, source, version))
+
+    OUT_CDS.write('%d\t%s\t%d\t%d\t%s\t%s\t%d\t%s\t%s\n' % (gene_id, feature.seqid, start, stop, direction, partial, call_type, source, version))
     OUT_ANNO.write('%d\t%s:%s\t%s\t%s\t%s\n' % (gene_id, 'Prokka', source, gene_acc, product, e_value))
 
     gene_id = gene_id + 1
+
+print(f"Done. All {total_num_features} have been processed succesfully. There were {call_types['CDS']} coding "
+      f"sequences, {call_types['RNA']} RNAs, and {call_types['unknown']} unknown features.")
+
+if features_missing_product_or_note:
+    print()
+    print(f"Please note that we discarded {features_missing_product_or_note} features described in this file "
+          f"since they did not contain any products or notes :/")
