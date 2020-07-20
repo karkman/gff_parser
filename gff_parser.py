@@ -3,7 +3,7 @@
 ## Antti Karkman
 ## University of Gothenburg
 ## antti.karkman@gmail.com
-## 2017
+## 2020 (tested with anvi'o v6.2, and should work with anything after)
 
 import gffutils
 import argparse
