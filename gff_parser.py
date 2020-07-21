@@ -32,7 +32,7 @@ OUT_ANNO = open(args.annotation, 'w')
 db = gffutils.create_db(GFF, ':memory:')
 
 #Print headers for anvi'o
-OUT_CDS.write("gene_callers_id\tcontig\tstart\tstop\tdirection\tpartial\tsource\tversion\n")
+OUT_CDS.write("gene_callers_id\tcontig\tstart\tstop\tdirection\tpartial\tcall_type\tsource\tversion\n")
 OUT_ANNO.write("gene_callers_id\tsource\taccession\tfunction\te_value\n")
 
 #running gene ID and a trumped-up e-value for the gene calls.
