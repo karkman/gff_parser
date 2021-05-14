@@ -15,7 +15,7 @@ gff_parser.py GFF3_file --gene-calls gene_calls.txt --annotation gene_annot.txt
 
 This might or might not work for your files. But I hope it works for you too.
 
-But at least you can try it out with the test files provided in the `test` folder (Thanks to [Andrew Morris](https://github.com/amorris28).
+But at least you can try it out with the test files provided in the `test` folder (Thanks to [Andrew Morris](https://github.com/amorris28)).
 
 __PROKKA__ annotations:
 ```
