@@ -1,0 +1,1000 @@
+c_000000394716	Prodigal:002006	CDS	1499	1786	.	+	0	ID=ANNDHMIN_747060;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747060;product=hypothetical protein
+c_000000394716	Prodigal:002006	CDS	2122	2382	.	-	0	ID=ANNDHMIN_747061;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747061;product=hypothetical protein
+c_000000394717	Prodigal:002006	CDS	244	786	.	+	0	ID=ANNDHMIN_747062;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747062;product=hypothetical protein
+c_000000394718	Prodigal:002006	CDS	57	1085	.	+	0	ID=ANNDHMIN_747063;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747063;product=hypothetical protein
+c_000000394720	Prodigal:002006	CDS	52	489	.	+	0	ID=ANNDHMIN_747064;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747064;product=hypothetical protein
+c_000000394721	Prodigal:002006	CDS	189	1310	.	-	0	ID=ANNDHMIN_747065;Name=aaeA_87;gene=aaeA_87;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01544;locus_tag=ANNDHMIN_747065;product=p-hydroxybenzoic acid efflux pump subunit AaeA
+c_000000394721	Prodigal:002006	CDS	1586	2347	.	-	0	ID=ANNDHMIN_747066;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747066;product=hypothetical protein
+c_000000394722	Prodigal:002006	CDS	78	419	.	+	0	ID=ANNDHMIN_747067;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747067;product=hypothetical protein
+c_000000394722	Prodigal:002006	CDS	429	662	.	+	0	ID=ANNDHMIN_747068;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747068;product=hypothetical protein
+c_000000394722	Prodigal:002006	CDS	1021	1707	.	+	0	ID=ANNDHMIN_747069;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747069;product=hypothetical protein
+c_000000394723	Prodigal:002006	CDS	197	451	.	-	0	ID=ANNDHMIN_747070;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747070;product=hypothetical protein
+c_000000394723	Prodigal:002006	CDS	767	967	.	-	0	ID=ANNDHMIN_747071;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747071;product=hypothetical protein
+c_000000394724	Prodigal:002006	CDS	237	485	.	-	0	ID=ANNDHMIN_747072;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747072;product=hypothetical protein
+c_000000394724	Prodigal:002006	CDS	482	889	.	-	0	ID=ANNDHMIN_747073;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747073;product=hypothetical protein
+c_000000394724	Prodigal:002006	CDS	886	1368	.	-	0	ID=ANNDHMIN_747074;Name=rhaS_218;gene=rhaS_218;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01534;locus_tag=ANNDHMIN_747074;product=HTH-type transcriptional activator RhaS
+c_000000394725	Prodigal:002006	CDS	94	510	.	+	0	ID=ANNDHMIN_747075;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747075;product=hypothetical protein
+c_000000394725	Prodigal:002006	CDS	690	941	.	+	0	ID=ANNDHMIN_747076;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747076;product=hypothetical protein
+c_000000394725	Aragorn:001002	tRNA	1046	1130	.	-	.	ID=ANNDHMIN_747077;inference=COORDINATES:profile:Aragorn:001002;locus_tag=ANNDHMIN_747077;product=tRNA-Leu(cag)
+c_000000394726	Prodigal:002006	CDS	452	1165	.	-	0	ID=ANNDHMIN_747078;Name=hemW_56;db_xref=COG:COG0635;gene=hemW_56;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P52062;locus_tag=ANNDHMIN_747078;product=Heme chaperone HemW
+c_000000394727	Prodigal:002006	CDS	538	1023	.	+	0	ID=ANNDHMIN_747079;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747079;product=hypothetical protein
+c_000000394727	Prodigal:002006	CDS	1201	1587	.	+	0	ID=ANNDHMIN_747080;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747080;product=hypothetical protein
+c_000000394727	Prodigal:002006	CDS	1582	1974	.	-	0	ID=ANNDHMIN_747081;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747081;product=hypothetical protein
+c_000000394728	Prodigal:002006	CDS	763	1002	.	-	0	ID=ANNDHMIN_747082;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747082;product=hypothetical protein
+c_000000394729	Prodigal:002006	CDS	33	902	.	+	0	ID=ANNDHMIN_747083;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747083;product=hypothetical protein
+c_000000394729	Prodigal:002006	CDS	884	1561	.	+	0	ID=ANNDHMIN_747084;eC_number=1.-.-.-;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q7A3L9;locus_tag=ANNDHMIN_747084;product=putative oxidoreductase
+c_000000394730	Prodigal:002006	CDS	37	291	.	+	0	ID=ANNDHMIN_747085;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747085;product=hypothetical protein
+c_000000394730	Prodigal:002006	CDS	372	989	.	-	0	ID=ANNDHMIN_747086;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747086;product=hypothetical protein
+c_000000394731	Prodigal:002006	CDS	280	1029	.	-	0	ID=ANNDHMIN_747087;Name=mntB_48;db_xref=COG:COG1121;gene=mntB_48;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O34338;locus_tag=ANNDHMIN_747087;product=Manganese transport system ATP-binding protein MntB
+c_000000394732	Prodigal:002006	CDS	397	855	.	+	0	ID=ANNDHMIN_747088;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747088;product=hypothetical protein
+c_000000394732	Prodigal:002006	CDS	900	1310	.	+	0	ID=ANNDHMIN_747089;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747089;product=hypothetical protein
+c_000000394733	Prodigal:002006	CDS	13	1143	.	+	0	ID=ANNDHMIN_747090;eC_number=1.14.14.133;Name=cinA_115;gene=cinA_115;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8VQF6;locus_tag=ANNDHMIN_747090;product=1%2C8-cineole 2-endo-monooxygenase
+c_000000394734	Prodigal:002006	CDS	24	302	.	-	0	ID=ANNDHMIN_747091;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747091;product=hypothetical protein
+c_000000394734	Prodigal:002006	CDS	428	1948	.	-	0	ID=ANNDHMIN_747092;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747092;product=hypothetical protein
+c_000000394735	Prodigal:002006	CDS	7	678	.	+	0	ID=ANNDHMIN_747093;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747093;product=hypothetical protein
+c_000000394735	Prodigal:002006	CDS	732	1007	.	+	0	ID=ANNDHMIN_747094;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747094;product=hypothetical protein
+c_000000394735	Prodigal:002006	CDS	1004	1240	.	-	0	ID=ANNDHMIN_747095;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747095;product=hypothetical protein
+c_000000394736	Prodigal:002006	CDS	120	632	.	+	0	ID=ANNDHMIN_747096;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747096;product=hypothetical protein
+c_000000394736	Prodigal:002006	CDS	952	1380	.	-	0	ID=ANNDHMIN_747097;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747097;product=hypothetical protein
+c_000000394737	Prodigal:002006	CDS	42	458	.	-	0	ID=ANNDHMIN_747098;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747098;product=hypothetical protein
+c_000000394737	Prodigal:002006	CDS	478	984	.	-	0	ID=ANNDHMIN_747099;eC_number=3.4.24.-;db_xref=COG:COG0612;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WHT5;locus_tag=ANNDHMIN_747099;product=putative zinc protease
+c_000000394738	Prodigal:002006	CDS	51	194	.	+	0	ID=ANNDHMIN_747100;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747100;product=hypothetical protein
+c_000000394738	Prodigal:002006	CDS	216	1064	.	+	0	ID=ANNDHMIN_747101;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747101;product=hypothetical protein
+c_000000394738	Prodigal:002006	CDS	1202	2056	.	-	0	ID=ANNDHMIN_747102;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747102;product=hypothetical protein
+c_000000394739	Prodigal:002006	CDS	58	525	.	+	0	ID=ANNDHMIN_747103;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747103;product=hypothetical protein
+c_000000394739	Prodigal:002006	CDS	588	1190	.	+	0	ID=ANNDHMIN_747104;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747104;product=hypothetical protein
+c_000000394740	Prodigal:002006	CDS	449	808	.	+	0	ID=ANNDHMIN_747105;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747105;product=hypothetical protein
+c_000000394741	Prodigal:002006	CDS	121	705	.	+	0	ID=ANNDHMIN_747106;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:ISfinder:ISPbo1;locus_tag=ANNDHMIN_747106;product=IS1595 family transposase ISPbo1
+c_000000394741	Prodigal:002006	CDS	699	1004	.	+	0	ID=ANNDHMIN_747107;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747107;product=hypothetical protein
+c_000000394742	Prodigal:002006	CDS	202	1380	.	+	0	ID=ANNDHMIN_747108;eC_number=2.3.1.16;Name=fadA_101;db_xref=COG:COG0183;gene=fadA_101;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O32177;locus_tag=ANNDHMIN_747108;product=3-ketoacyl-CoA thiolase
+c_000000394742	Prodigal:002006	CDS	1405	2604	.	+	0	ID=ANNDHMIN_747109;eC_number=1.3.99.-;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P95280;locus_tag=ANNDHMIN_747109;product=Putative acyl-CoA dehydrogenase FadE17
+c_000000394743	Prodigal:002006	CDS	251	1069	.	+	0	ID=ANNDHMIN_747110;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747110;product=hypothetical protein
+c_000000394744	Prodigal:002006	CDS	39	164	.	+	0	ID=ANNDHMIN_747111;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747111;product=hypothetical protein
+c_000000394744	Prodigal:002006	CDS	329	1693	.	-	0	ID=ANNDHMIN_747112;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747112;product=hypothetical protein
+c_000000394745	Prodigal:002006	CDS	32	256	.	+	0	ID=ANNDHMIN_747113;eC_number=2.7.8.28;Name=fbiA_53;db_xref=COG:COG0391;gene=fbiA_53;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WP81;locus_tag=ANNDHMIN_747113;product=Phosphoenolpyruvate transferase
+c_000000394745	Prodigal:002006	CDS	348	578	.	-	0	ID=ANNDHMIN_747114;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747114;product=hypothetical protein
+c_000000394745	Prodigal:002006	CDS	663	1295	.	-	0	ID=ANNDHMIN_747115;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747115;product=hypothetical protein
+c_000000394746	Prodigal:002006	CDS	96	992	.	+	0	ID=ANNDHMIN_747116;Name=dmlR_98;gene=dmlR_98;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P76250;locus_tag=ANNDHMIN_747116;product=HTH-type transcriptional regulator DmlR
+c_000000394747	Prodigal:002006	CDS	50	181	.	+	0	ID=ANNDHMIN_747117;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747117;product=hypothetical protein
+c_000000394747	Prodigal:002006	CDS	530	982	.	+	0	ID=ANNDHMIN_747118;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747118;product=hypothetical protein
+c_000000394748	Prodigal:002006	CDS	33	305	.	+	0	ID=ANNDHMIN_747119;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747119;product=hypothetical protein
+c_000000394748	Prodigal:002006	CDS	595	993	.	-	0	ID=ANNDHMIN_747120;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747120;product=hypothetical protein
+c_000000394749	Prodigal:002006	CDS	44	289	.	+	0	ID=ANNDHMIN_747121;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747121;product=hypothetical protein
+c_000000394749	Prodigal:002006	CDS	301	1086	.	-	0	ID=ANNDHMIN_747122;eC_number=3.1.3.7;Name=cysQ_90;gene=cysQ_90;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_02095;locus_tag=ANNDHMIN_747122;product=3'(2')%2C5'-bisphosphate nucleotidase CysQ
+c_000000394750	Prodigal:002006	CDS	36	377	.	+	0	ID=ANNDHMIN_747123;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747123;product=hypothetical protein
+c_000000394750	Prodigal:002006	CDS	390	1016	.	+	0	ID=ANNDHMIN_747124;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747124;product=hypothetical protein
+c_000000394750	Prodigal:002006	CDS	1477	1743	.	-	0	ID=ANNDHMIN_747125;eC_number=3.6.3.-;Name=yknY_171;db_xref=COG:COG1136;gene=yknY_171;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O31711;locus_tag=ANNDHMIN_747125;product=putative ABC transporter ATP-binding protein YknY
+c_000000394751	Prodigal:002006	CDS	17	547	.	+	0	ID=ANNDHMIN_747126;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747126;product=hypothetical protein
+c_000000394751	Prodigal:002006	CDS	665	1054	.	-	0	ID=ANNDHMIN_747127;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747127;product=hypothetical protein
+c_000000394752	Prodigal:002006	CDS	333	1514	.	-	0	ID=ANNDHMIN_747128;eC_number=2.8.1.1;Name=glpE_103;gene=glpE_103;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01009;locus_tag=ANNDHMIN_747128;product=Thiosulfate sulfurtransferase GlpE
+c_000000394752	Prodigal:002006	CDS	1553	2344	.	-	0	ID=ANNDHMIN_747129;eC_number=2.3.1.286;Name=cobB_108;db_xref=COG:COG0846;gene=cobB_108;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9WYW0;locus_tag=ANNDHMIN_747129;product=NAD-dependent protein deacetylase
+c_000000394752	Prodigal:002006	CDS	2529	2669	.	-	0	ID=ANNDHMIN_747130;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747130;product=hypothetical protein
+c_000000394753	Prodigal:002006	CDS	70	780	.	-	0	ID=ANNDHMIN_747131;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747131;product=hypothetical protein
+c_000000394753	Prodigal:002006	CDS	780	1241	.	-	0	ID=ANNDHMIN_747132;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747132;product=hypothetical protein
+c_000000394753	Prodigal:002006	CDS	1241	1411	.	-	0	ID=ANNDHMIN_747133;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747133;product=hypothetical protein
+c_000000394754	Prodigal:002006	CDS	99	731	.	-	0	ID=ANNDHMIN_747134;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747134;product=hypothetical protein
+c_000000394754	Prodigal:002006	CDS	862	1380	.	+	0	ID=ANNDHMIN_747135;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747135;product=hypothetical protein
+c_000000394754	Prodigal:002006	CDS	1618	1881	.	+	0	ID=ANNDHMIN_747136;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747136;product=hypothetical protein
+c_000000394754	Prodigal:002006	CDS	1878	2075	.	+	0	ID=ANNDHMIN_747137;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747137;product=hypothetical protein
+c_000000394754	Prodigal:002006	CDS	2217	2549	.	-	0	ID=ANNDHMIN_747138;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747138;product=hypothetical protein
+c_000000394755	Prodigal:002006	CDS	116	1576	.	+	0	ID=ANNDHMIN_747139;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747139;product=hypothetical protein
+c_000000394755	Prodigal:002006	CDS	1601	1975	.	-	0	ID=ANNDHMIN_747140;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747140;product=hypothetical protein
+c_000000394756	Prodigal:002006	CDS	438	932	.	-	0	ID=ANNDHMIN_747141;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747141;product=hypothetical protein
+c_000000394757	Prodigal:002006	CDS	37	594	.	-	0	ID=ANNDHMIN_747142;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747142;product=hypothetical protein
+c_000000394757	Prodigal:002006	CDS	757	1074	.	+	0	ID=ANNDHMIN_747143;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747143;product=hypothetical protein
+c_000000394757	Prodigal:002006	CDS	1126	1542	.	-	0	ID=ANNDHMIN_747144;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747144;product=hypothetical protein
+c_000000394758	Prodigal:002006	CDS	158	1129	.	-	0	ID=ANNDHMIN_747145;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747145;product=hypothetical protein
+c_000000394759	Prodigal:002006	CDS	71	202	.	-	0	ID=ANNDHMIN_747146;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747146;product=hypothetical protein
+c_000000394759	Prodigal:002006	CDS	210	797	.	-	0	ID=ANNDHMIN_747147;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747147;product=hypothetical protein
+c_000000394760	Prodigal:002006	CDS	203	976	.	-	0	ID=ANNDHMIN_747148;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747148;product=hypothetical protein
+c_000000394761	Prodigal:002006	CDS	447	953	.	-	0	ID=ANNDHMIN_747149;eC_number=1.4.3.5;Name=pdxH_68;db_xref=COG:COG0259;gene=pdxH_68;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P21159;locus_tag=ANNDHMIN_747149;product=Pyridoxine/pyridoxamine 5'-phosphate oxidase
+c_000000394762	Prodigal:002006	CDS	130	504	.	+	0	ID=ANNDHMIN_747150;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747150;product=hypothetical protein
+c_000000394763	Prodigal:002006	CDS	117	578	.	+	0	ID=ANNDHMIN_747151;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747151;product=hypothetical protein
+c_000000394763	Prodigal:002006	CDS	604	1266	.	+	0	ID=ANNDHMIN_747152;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747152;product=hypothetical protein
+c_000000394763	Prodigal:002006	CDS	1263	1880	.	+	0	ID=ANNDHMIN_747153;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747153;product=hypothetical protein
+c_000000394763	Prodigal:002006	CDS	1994	2224	.	+	0	ID=ANNDHMIN_747154;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747154;product=hypothetical protein
+c_000000394765	Prodigal:002006	CDS	185	835	.	-	0	ID=ANNDHMIN_747155;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747155;product=hypothetical protein
+c_000000394767	Prodigal:002006	CDS	30	251	.	+	0	ID=ANNDHMIN_747156;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747156;product=hypothetical protein
+c_000000394767	Prodigal:002006	CDS	383	1168	.	-	0	ID=ANNDHMIN_747157;eC_number=2.7.7.6;Name=rpoC_88;db_xref=COG:COG0086;gene=rpoC_88;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A0QS66;locus_tag=ANNDHMIN_747157;product=DNA-directed RNA polymerase subunit beta'
+c_000000394768	Prodigal:002006	CDS	76	228	.	+	0	ID=ANNDHMIN_747158;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747158;product=hypothetical protein
+c_000000394768	Prodigal:002006	CDS	225	734	.	+	0	ID=ANNDHMIN_747159;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747159;product=hypothetical protein
+c_000000394768	Prodigal:002006	CDS	783	1430	.	-	0	ID=ANNDHMIN_747160;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747160;product=hypothetical protein
+c_000000394769	Prodigal:002006	CDS	10	195	.	+	0	ID=ANNDHMIN_747161;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747161;product=hypothetical protein
+c_000000394769	Prodigal:002006	CDS	247	1326	.	+	0	ID=ANNDHMIN_747162;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747162;product=hypothetical protein
+c_000000394769	Prodigal:002006	CDS	1623	1805	.	-	0	ID=ANNDHMIN_747163;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747163;product=hypothetical protein
+c_000000394770	Prodigal:002006	CDS	934	1170	.	+	0	ID=ANNDHMIN_747164;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747164;product=hypothetical protein
+c_000000394771	Prodigal:002006	CDS	70	633	.	+	0	ID=ANNDHMIN_747165;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747165;product=hypothetical protein
+c_000000394771	Prodigal:002006	CDS	758	919	.	-	0	ID=ANNDHMIN_747166;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747166;product=hypothetical protein
+c_000000394771	Prodigal:002006	CDS	947	1213	.	-	0	ID=ANNDHMIN_747167;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747167;product=hypothetical protein
+c_000000394772	Prodigal:002006	CDS	6	1031	.	+	0	ID=ANNDHMIN_747168;Name=tolB_340;gene=tolB_340;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00671;locus_tag=ANNDHMIN_747168;product=Tol-Pal system protein TolB
+c_000000394773	Prodigal:002006	CDS	66	800	.	+	0	ID=ANNDHMIN_747169;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747169;product=hypothetical protein
+c_000000394774	Prodigal:002006	CDS	133	273	.	+	0	ID=ANNDHMIN_747170;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747170;product=hypothetical protein
+c_000000394774	Prodigal:002006	CDS	499	900	.	-	0	ID=ANNDHMIN_747171;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747171;product=hypothetical protein
+c_000000394775	Prodigal:002006	CDS	9	227	.	+	0	ID=ANNDHMIN_747172;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747172;product=hypothetical protein
+c_000000394775	Prodigal:002006	CDS	489	599	.	+	0	ID=ANNDHMIN_747173;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747173;product=hypothetical protein
+c_000000394776	Prodigal:002006	CDS	395	1084	.	-	0	ID=ANNDHMIN_747174;eC_number=2.1.1.33;Name=trmB_44;db_xref=COG:COG0220;gene=trmB_44;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A8I5;locus_tag=ANNDHMIN_747174;product=tRNA (guanine-N(7)-)-methyltransferase
+c_000000394777	Prodigal:002006	CDS	99	338	.	-	0	ID=ANNDHMIN_747175;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747175;product=hypothetical protein
+c_000000394777	Prodigal:002006	CDS	338	745	.	-	0	ID=ANNDHMIN_747176;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747176;product=hypothetical protein
+c_000000394777	Prodigal:002006	CDS	801	1037	.	-	0	ID=ANNDHMIN_747177;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747177;product=hypothetical protein
+c_000000394778	Prodigal:002006	CDS	552	929	.	-	0	ID=ANNDHMIN_747178;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747178;product=hypothetical protein
+c_000000394779	Prodigal:002006	CDS	189	944	.	+	0	ID=ANNDHMIN_747179;eC_number=6.5.1.1;Name=lig_83;gene=lig_83;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00407;locus_tag=ANNDHMIN_747179;product=DNA ligase
+c_000000394779	Prodigal:002006	CDS	941	1123	.	+	0	ID=ANNDHMIN_747180;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747180;product=hypothetical protein
+c_000000394780	Prodigal:002006	CDS	96	626	.	-	0	ID=ANNDHMIN_747181;eC_number=3.1.1.29;Name=pth_78;gene=pth_78;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:B5XIP6;locus_tag=ANNDHMIN_747181;product=Peptidyl-tRNA hydrolase
+c_000000394780	Prodigal:002006	CDS	702	1406	.	-	0	ID=ANNDHMIN_747182;Name=rplY_16;gene=rplY_16;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q7A7B3;locus_tag=ANNDHMIN_747182;product=50S ribosomal protein L25
+c_000000394780	Prodigal:002006	CDS	1487	2284	.	-	0	ID=ANNDHMIN_747183;eC_number=2.7.6.1;Name=prs_115;db_xref=COG:COG0462;gene=prs_115;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q63XL8;locus_tag=ANNDHMIN_747183;product=Ribose-phosphate pyrophosphokinase
+c_000000394781	Prodigal:002006	CDS	224	646	.	+	0	ID=ANNDHMIN_747184;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747184;product=hypothetical protein
+c_000000394781	Prodigal:002006	CDS	700	1131	.	+	0	ID=ANNDHMIN_747185;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747185;product=hypothetical protein
+c_000000394782	Prodigal:002006	CDS	102	251	.	+	0	ID=ANNDHMIN_747186;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747186;product=hypothetical protein
+c_000000394782	Prodigal:002006	CDS	356	910	.	-	0	ID=ANNDHMIN_747187;eC_number=6.3.5.2;Name=guaA_96;db_xref=COG:COG0518;gene=guaA_96;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P04079;locus_tag=ANNDHMIN_747187;product=GMP synthase [glutamine-hydrolyzing]
+c_000000394784	Prodigal:002006	CDS	25	1176	.	-	0	ID=ANNDHMIN_747188;eC_number=2.3.1.16;Name=fadA5_29;gene=fadA5_29;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:I6XHI4;locus_tag=ANNDHMIN_747188;product=Steroid 3-ketoacyl-CoA thiolase
+c_000000394785	Prodigal:002006	CDS	68	571	.	+	0	ID=ANNDHMIN_747189;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747189;product=hypothetical protein
+c_000000394785	Prodigal:002006	CDS	629	1291	.	-	0	ID=ANNDHMIN_747190;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747190;product=hypothetical protein
+c_000000394786	Prodigal:002006	CDS	358	1251	.	-	0	ID=ANNDHMIN_747191;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747191;product=hypothetical protein
+c_000000394787	Prodigal:002006	CDS	67	570	.	+	0	ID=ANNDHMIN_747192;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747192;product=hypothetical protein
+c_000000394787	Prodigal:002006	CDS	596	718	.	+	0	ID=ANNDHMIN_747193;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747193;product=hypothetical protein
+c_000000394787	Prodigal:002006	CDS	867	1142	.	+	0	ID=ANNDHMIN_747194;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747194;product=hypothetical protein
+c_000000394788	Prodigal:002006	CDS	125	964	.	-	0	ID=ANNDHMIN_747195;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:ISfinder:ISAzs24;locus_tag=ANNDHMIN_747195;product=IS3 family transposase ISAzs24
+c_000000394789	Prodigal:002006	CDS	68	535	.	+	0	ID=ANNDHMIN_747196;eC_number=3.6.1.23;Name=dut_85;gene=dut_85;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q2YRG4;locus_tag=ANNDHMIN_747196;product=Deoxyuridine 5'-triphosphate nucleotidohydrolase
+c_000000394789	Prodigal:002006	CDS	477	1040	.	+	0	ID=ANNDHMIN_747197;Name=iscR_34;gene=iscR_34;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01176;locus_tag=ANNDHMIN_747197;product=HTH-type transcriptional regulator IscR
+c_000000394789	Prodigal:002006	CDS	1474	1851	.	-	0	ID=ANNDHMIN_747198;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747198;product=hypothetical protein
+c_000000394789	Prodigal:002006	CDS	1906	2226	.	-	0	ID=ANNDHMIN_747199;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747199;product=hypothetical protein
+c_000000394789	Prodigal:002006	CDS	2314	2775	.	-	0	ID=ANNDHMIN_747200;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747200;product=hypothetical protein
+c_000000394790	Prodigal:002006	CDS	111	512	.	-	0	ID=ANNDHMIN_747201;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747201;product=hypothetical protein
+c_000000394790	Prodigal:002006	CDS	870	1103	.	-	0	ID=ANNDHMIN_747202;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747202;product=hypothetical protein
+c_000000394791	Prodigal:002006	CDS	42	227	.	+	0	ID=ANNDHMIN_747203;eC_number=4.6.1.17;Name=moaC1_4;db_xref=COG:COG0315;gene=moaC1_4;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WJR9;locus_tag=ANNDHMIN_747203;product=Cyclic pyranopterin monophosphate synthase 1
+c_000000394791	Prodigal:002006	CDS	231	1442	.	+	0	ID=ANNDHMIN_747204;eC_number=2.10.1.1;Name=moeA_112;db_xref=COG:COG0303;gene=moeA_112;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P12281;locus_tag=ANNDHMIN_747204;product=Molybdopterin molybdenumtransferase
+c_000000394791	Prodigal:002006	CDS	1498	1782	.	+	0	ID=ANNDHMIN_747205;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747205;product=hypothetical protein
+c_000000394792	Prodigal:002006	CDS	110	1198	.	+	0	ID=ANNDHMIN_747206;eC_number=4.2.1.2;Name=fumC_109;db_xref=COG:COG0114;gene=fumC_109;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q92PB6;locus_tag=ANNDHMIN_747206;product=Fumarate hydratase class II
+c_000000394793	Prodigal:002006	CDS	697	906	.	+	0	ID=ANNDHMIN_747207;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747207;product=hypothetical protein
+c_000000394794	Prodigal:002006	CDS	158	286	.	+	0	ID=ANNDHMIN_747208;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747208;product=hypothetical protein
+c_000000394795	Prodigal:002006	CDS	613	1113	.	+	0	ID=ANNDHMIN_747209;eC_number=4.2.1.148;Name=mch_113;db_xref=COG:COG2030;gene=mch_113;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q3IZ78;locus_tag=ANNDHMIN_747209;product=Mesaconyl-CoA hydratase
+c_000000394796	Prodigal:002006	CDS	22	1020	.	+	0	ID=ANNDHMIN_747210;eC_number=1.3.99.-;Name=acdA_191;db_xref=COG:COG1960;gene=acdA_191;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P45867;locus_tag=ANNDHMIN_747210;product=Acyl-CoA dehydrogenase
+c_000000394797	Prodigal:002006	CDS	27	506	.	+	0	ID=ANNDHMIN_747211;Name=glpC_56;db_xref=COG:COG0247;gene=glpC_56;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A996;locus_tag=ANNDHMIN_747211;product=Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+c_000000394797	Prodigal:002006	CDS	503	1087	.	+	0	ID=ANNDHMIN_747212;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747212;product=hypothetical protein
+c_000000394798	Prodigal:002006	CDS	292	1872	.	-	0	ID=ANNDHMIN_747213;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747213;product=hypothetical protein
+c_000000394799	Prodigal:002006	CDS	8	1021	.	+	0	ID=ANNDHMIN_747214;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747214;product=hypothetical protein
+c_000000394800	Prodigal:002006	CDS	121	963	.	+	0	ID=ANNDHMIN_747215;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747215;product=hypothetical protein
+c_000000394800	Prodigal:002006	CDS	1598	2233	.	+	0	ID=ANNDHMIN_747216;eC_number=1.-.-.-;Name=yodC_2;db_xref=COG:COG0778;gene=yodC_2;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P81102;locus_tag=ANNDHMIN_747216;product=Putative NAD(P)H nitroreductase YodC
+c_000000394801	Prodigal:002006	CDS	41	385	.	+	0	ID=ANNDHMIN_747217;Name=yfgD_6;db_xref=COG:COG1393;gene=yfgD_6;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P76569;locus_tag=ANNDHMIN_747217;product=putative protein YfgD
+c_000000394801	Prodigal:002006	CDS	461	1087	.	-	0	ID=ANNDHMIN_747218;eC_number=2.5.1.113;Name=cysM_52;db_xref=COG:COG0031;gene=cysM_52;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WP53;locus_tag=ANNDHMIN_747218;product=O-phosphoserine sulfhydrylase
+c_000000394802	Prodigal:002006	CDS	2	328	.	+	0	ID=ANNDHMIN_747219;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747219;product=hypothetical protein
+c_000000394802	Prodigal:002006	CDS	232	1089	.	-	0	ID=ANNDHMIN_747220;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747220;product=hypothetical protein
+c_000000394803	Prodigal:002006	CDS	114	920	.	+	0	ID=ANNDHMIN_747221;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747221;product=hypothetical protein
+c_000000394803	Prodigal:002006	CDS	848	1039	.	-	0	ID=ANNDHMIN_747222;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747222;product=hypothetical protein
+c_000000394804	Prodigal:002006	CDS	11	238	.	+	0	ID=ANNDHMIN_747223;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747223;product=hypothetical protein
+c_000000394804	Prodigal:002006	CDS	697	1224	.	-	0	ID=ANNDHMIN_747224;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747224;product=hypothetical protein
+c_000000394805	Prodigal:002006	CDS	299	967	.	+	0	ID=ANNDHMIN_747225;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747225;product=hypothetical protein
+c_000000394806	Prodigal:002006	CDS	697	1044	.	+	0	ID=ANNDHMIN_747226;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747226;product=hypothetical protein
+c_000000394807	Prodigal:002006	CDS	163	810	.	+	0	ID=ANNDHMIN_747227;Name=hflK_42;db_xref=COG:COG0330;gene=hflK_42;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0ABC7;locus_tag=ANNDHMIN_747227;product=Modulator of FtsH protease HflK
+c_000000394807	Prodigal:002006	CDS	1063	1269	.	-	0	ID=ANNDHMIN_747228;Name=cspA_245;db_xref=COG:COG1278;gene=cspA_245;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9Z3S6;locus_tag=ANNDHMIN_747228;product=Cold shock protein CspA
+c_000000394807	Prodigal:002006	CDS	1473	1859	.	+	0	ID=ANNDHMIN_747229;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747229;product=hypothetical protein
+c_000000394808	Prodigal:002006	CDS	170	862	.	-	0	ID=ANNDHMIN_747230;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747230;product=hypothetical protein
+c_000000394809	Prodigal:002006	CDS	222	1286	.	-	0	ID=ANNDHMIN_747231;Name=pstS_107;db_xref=COG:COG0226;gene=pstS_107;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AG82;locus_tag=ANNDHMIN_747231;product=Phosphate-binding protein PstS
+c_000000394809	Prodigal:002006	CDS	1341	1778	.	-	0	ID=ANNDHMIN_747232;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747232;product=hypothetical protein
+c_000000394810	Prodigal:002006	CDS	105	1052	.	+	0	ID=ANNDHMIN_747233;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747233;product=hypothetical protein
+c_000000394811	Prodigal:002006	CDS	1	795	.	-	0	ID=ANNDHMIN_747234;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747234;product=hypothetical protein
+c_000000394811	Prodigal:002006	CDS	937	1449	.	-	0	ID=ANNDHMIN_747235;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747235;product=hypothetical protein
+c_000000394811	Prodigal:002006	CDS	1608	1877	.	-	0	ID=ANNDHMIN_747236;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747236;product=hypothetical protein
+c_000000394812	Prodigal:002006	CDS	41	259	.	+	0	ID=ANNDHMIN_747237;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747237;product=hypothetical protein
+c_000000394812	Prodigal:002006	CDS	275	907	.	+	0	ID=ANNDHMIN_747238;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747238;product=hypothetical protein
+c_000000394812	Prodigal:002006	CDS	1003	2181	.	-	0	ID=ANNDHMIN_747239;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747239;product=hypothetical protein
+c_000000394813	Prodigal:002006	CDS	25	240	.	+	0	ID=ANNDHMIN_747240;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747240;product=hypothetical protein
+c_000000394813	Prodigal:002006	CDS	253	930	.	-	0	ID=ANNDHMIN_747241;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747241;product=hypothetical protein
+c_000000394814	Prodigal:002006	CDS	511	771	.	-	0	ID=ANNDHMIN_747242;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747242;product=hypothetical protein
+c_000000394815	Prodigal:002006	CDS	582	1121	.	-	0	ID=ANNDHMIN_747243;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747243;product=hypothetical protein
+c_000000394816	Prodigal:002006	CDS	144	1088	.	+	0	ID=ANNDHMIN_747244;eC_number=2.5.1.134;Name=mccA_5;db_xref=COG:COG0031;gene=mccA_5;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O05393;locus_tag=ANNDHMIN_747244;product=O-acetylserine dependent cystathionine beta-synthase
+c_000000394819	Prodigal:002006	CDS	36	353	.	+	0	ID=ANNDHMIN_747245;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747245;product=hypothetical protein
+c_000000394820	Prodigal:002006	CDS	185	430	.	+	0	ID=ANNDHMIN_747246;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747246;product=hypothetical protein
+c_000000394820	Prodigal:002006	CDS	337	537	.	-	0	ID=ANNDHMIN_747247;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747247;product=hypothetical protein
+c_000000394820	Prodigal:002006	CDS	718	909	.	-	0	ID=ANNDHMIN_747248;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747248;product=hypothetical protein
+c_000000394820	Prodigal:002006	CDS	1653	2189	.	+	0	ID=ANNDHMIN_747249;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747249;product=hypothetical protein
+c_000000394820	Prodigal:002006	CDS	2338	2556	.	+	0	ID=ANNDHMIN_747250;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747250;product=hypothetical protein
+c_000000394821	Prodigal:002006	CDS	543	749	.	-	0	ID=ANNDHMIN_747251;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747251;product=hypothetical protein
+c_000000394821	Prodigal:002006	CDS	774	1034	.	-	0	ID=ANNDHMIN_747252;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747252;product=hypothetical protein
+c_000000394822	Prodigal:002006	CDS	116	352	.	+	0	ID=ANNDHMIN_747253;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747253;product=hypothetical protein
+c_000000394823	Prodigal:002006	CDS	403	1206	.	-	0	ID=ANNDHMIN_747254;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747254;product=hypothetical protein
+c_000000394824	Prodigal:002006	CDS	5	568	.	+	0	ID=ANNDHMIN_747255;eC_number=2.6.1.11;Name=argD_81;db_xref=COG:COG4992;gene=argD_81;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O66442;locus_tag=ANNDHMIN_747255;product=Acetylornithine aminotransferase
+c_000000394824	Prodigal:002006	CDS	560	970	.	-	0	ID=ANNDHMIN_747256;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747256;product=hypothetical protein
+c_000000394825	Prodigal:002006	CDS	23	637	.	+	0	ID=ANNDHMIN_747257;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747257;product=hypothetical protein
+c_000000394826	Prodigal:002006	CDS	213	344	.	+	0	ID=ANNDHMIN_747258;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747258;product=hypothetical protein
+c_000000394826	Prodigal:002006	CDS	452	874	.	+	0	ID=ANNDHMIN_747259;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747259;product=hypothetical protein
+c_000000394826	Prodigal:002006	CDS	871	1527	.	+	0	ID=ANNDHMIN_747260;eC_number=3.1.3.22;Name=hxpA_2;db_xref=COG:COG0637;gene=hxpA_2;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P77625;locus_tag=ANNDHMIN_747260;product=Hexitol phosphatase A
+c_000000394827	Prodigal:002006	CDS	5	922	.	+	0	ID=ANNDHMIN_747261;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747261;product=hypothetical protein
+c_000000394828	Prodigal:002006	CDS	102	407	.	+	0	ID=ANNDHMIN_747262;Name=sat/cysC_18;db_xref=COG:COG0529;gene=sat/cysC_18;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O67174;locus_tag=ANNDHMIN_747262;product=putative bifunctional SAT/APS kinase
+c_000000394829	Prodigal:002006	CDS	79	849	.	+	0	ID=ANNDHMIN_747263;Name=yihR_37;db_xref=COG:COG2017;gene=yihR_37;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P32139;locus_tag=ANNDHMIN_747263;product=putative protein YihR
+c_000000394830	Prodigal:002006	CDS	14	241	.	+	0	ID=ANNDHMIN_747264;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747264;product=hypothetical protein
+c_000000394830	Prodigal:002006	CDS	245	403	.	+	0	ID=ANNDHMIN_747265;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747265;product=hypothetical protein
+c_000000394830	Prodigal:002006	CDS	449	700	.	+	0	ID=ANNDHMIN_747266;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747266;product=hypothetical protein
+c_000000394830	Prodigal:002006	CDS	884	1339	.	-	0	ID=ANNDHMIN_747267;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747267;product=hypothetical protein
+c_000000394830	Prodigal:002006	CDS	1400	1756	.	-	0	ID=ANNDHMIN_747268;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747268;product=hypothetical protein
+c_000000394831	Prodigal:002006	CDS	101	304	.	-	0	ID=ANNDHMIN_747269;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747269;product=hypothetical protein
+c_000000394831	Prodigal:002006	CDS	346	879	.	+	0	ID=ANNDHMIN_747270;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747270;product=hypothetical protein
+c_000000394832	Prodigal:002006	CDS	373	1062	.	+	0	ID=ANNDHMIN_747271;eC_number=3.8.1.2;Name=hdl IVa_60;gene=hdl IVa_60;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q51645;locus_tag=ANNDHMIN_747271;product=(S)-2-haloacid dehalogenase 4A
+c_000000394832	Prodigal:002006	CDS	1087	1338	.	+	0	ID=ANNDHMIN_747272;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747272;product=hypothetical protein
+c_000000394833	Prodigal:002006	CDS	22	165	.	+	0	ID=ANNDHMIN_747273;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747273;product=hypothetical protein
+c_000000394833	Prodigal:002006	CDS	169	657	.	-	0	ID=ANNDHMIN_747274;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747274;product=hypothetical protein
+c_000000394833	Prodigal:002006	CDS	878	2128	.	+	0	ID=ANNDHMIN_747275;eC_number=2.1.1.79;Name=cfa_29;db_xref=COG:COG2230;gene=cfa_29;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A9H7;locus_tag=ANNDHMIN_747275;product=Cyclopropane-fatty-acyl-phospholipid synthase
+c_000000394833	Prodigal:002006	CDS	2431	2640	.	-	0	ID=ANNDHMIN_747276;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747276;product=hypothetical protein
+c_000000394835	Prodigal:002006	CDS	455	772	.	+	0	ID=ANNDHMIN_747277;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747277;product=hypothetical protein
+c_000000394835	Prodigal:002006	CDS	775	1236	.	+	0	ID=ANNDHMIN_747278;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747278;product=hypothetical protein
+c_000000394836	Prodigal:002006	CDS	5	364	.	+	0	ID=ANNDHMIN_747279;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747279;product=hypothetical protein
+c_000000394836	Prodigal:002006	CDS	387	674	.	+	0	ID=ANNDHMIN_747280;Name=ihfB_61;db_xref=COG:COG0776;gene=ihfB_61;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q06607;locus_tag=ANNDHMIN_747280;product=Integration host factor subunit beta
+c_000000394836	Prodigal:002006	CDS	679	1056	.	+	0	ID=ANNDHMIN_747281;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747281;product=hypothetical protein
+c_000000394837	Prodigal:002006	CDS	49	705	.	+	0	ID=ANNDHMIN_747282;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747282;product=hypothetical protein
+c_000000394838	Prodigal:002006	CDS	439	1350	.	+	0	ID=ANNDHMIN_747283;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747283;product=hypothetical protein
+c_000000394838	Prodigal:002006	CDS	1392	2132	.	-	0	ID=ANNDHMIN_747284;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747284;product=hypothetical protein
+c_000000394838	Prodigal:002006	CDS	2166	2735	.	-	0	ID=ANNDHMIN_747285;eC_number=3.4.23.36;Name=lspA_102;db_xref=COG:COG0597;gene=lspA_102;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9HVM5;locus_tag=ANNDHMIN_747285;product=Lipoprotein signal peptidase
+c_000000394838	Prodigal:002006	CDS	2787	3263	.	-	0	ID=ANNDHMIN_747286;eC_number=6.1.1.5;Name=ileS_77;db_xref=COG:COG0060;gene=ileS_77;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q72AR5;locus_tag=ANNDHMIN_747286;product=Isoleucine--tRNA ligase
+c_000000394839	Prodigal:002006	CDS	68	859	.	+	0	ID=ANNDHMIN_747287;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747287;product=hypothetical protein
+c_000000394841	Prodigal:002006	CDS	51	365	.	+	0	ID=ANNDHMIN_747288;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747288;product=hypothetical protein
+c_000000394841	Prodigal:002006	CDS	1172	1456	.	-	0	ID=ANNDHMIN_747289;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747289;product=hypothetical protein
+c_000000394842	Prodigal:002006	CDS	115	810	.	+	0	ID=ANNDHMIN_747290;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747290;product=hypothetical protein
+c_000000394843	Prodigal:002006	CDS	293	508	.	+	0	ID=ANNDHMIN_747291;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747291;product=hypothetical protein
+c_000000394844	Prodigal:002006	CDS	18	542	.	+	0	ID=ANNDHMIN_747292;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747292;product=hypothetical protein
+c_000000394844	Prodigal:002006	CDS	570	1367	.	-	0	ID=ANNDHMIN_747293;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747293;product=hypothetical protein
+c_000000394845	Prodigal:002006	CDS	655	900	.	-	0	ID=ANNDHMIN_747294;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747294;product=hypothetical protein
+c_000000394846	Prodigal:002006	CDS	90	596	.	+	0	ID=ANNDHMIN_747295;eC_number=3.4.21.88;Name=lexA_105;gene=lexA_105;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00015;locus_tag=ANNDHMIN_747295;product=LexA repressor
+c_000000394847	Prodigal:002006	CDS	236	493	.	+	0	ID=ANNDHMIN_747296;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747296;product=hypothetical protein
+c_000000394847	Prodigal:002006	CDS	823	1032	.	-	0	ID=ANNDHMIN_747297;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747297;product=hypothetical protein
+c_000000394848	Prodigal:002006	CDS	275	526	.	+	0	ID=ANNDHMIN_747298;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747298;product=hypothetical protein
+c_000000394848	Prodigal:002006	CDS	604	1029	.	+	0	ID=ANNDHMIN_747299;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747299;product=hypothetical protein
+c_000000394849	Prodigal:002006	CDS	164	703	.	-	0	ID=ANNDHMIN_747300;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747300;product=hypothetical protein
+c_000000394849	Prodigal:002006	CDS	928	1638	.	-	0	ID=ANNDHMIN_747301;eC_number=6.1.1.3;Name=thrZ_23;db_xref=COG:COG0441;gene=thrZ_23;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P18256;locus_tag=ANNDHMIN_747301;product=Threonine--tRNA ligase 2
+c_000000394850	Prodigal:002006	CDS	112	987	.	+	0	ID=ANNDHMIN_747302;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747302;product=hypothetical protein
+c_000000394850	Prodigal:002006	CDS	1011	1805	.	-	0	ID=ANNDHMIN_747303;eC_number=6.3.5.1;Name=nadE_87;gene=nadE_87;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_02090;locus_tag=ANNDHMIN_747303;product=Glutamine-dependent NAD(+) synthetase
+c_000000394851	Prodigal:002006	CDS	36	836	.	+	0	ID=ANNDHMIN_747304;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747304;product=hypothetical protein
+c_000000394852	Prodigal:002006	CDS	56	1204	.	-	0	ID=ANNDHMIN_747305;eC_number=5.5.1.27;Name=gci_59;db_xref=COG:COG4948;gene=gci_59;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A9CEQ8;locus_tag=ANNDHMIN_747305;product=D-galactarolactone cycloisomerase
+c_000000394852	Prodigal:002006	CDS	1362	3026	.	-	0	ID=ANNDHMIN_747306;eC_number=4.1.1.7;Name=mdlC_70;gene=mdlC_70;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P20906;locus_tag=ANNDHMIN_747306;product=Benzoylformate decarboxylase
+c_000000394852	Prodigal:002006	CDS	3144	3245	.	-	0	ID=ANNDHMIN_747307;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747307;product=hypothetical protein
+c_000000394853	Prodigal:002006	CDS	25	1110	.	+	0	ID=ANNDHMIN_747308;eC_number=1.3.99.31;Name=crtI_22;db_xref=COG:COG1233;gene=crtI_22;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P21685;locus_tag=ANNDHMIN_747308;product=Phytoene desaturase (lycopene-forming)
+c_000000394854	Prodigal:002006	CDS	425	1000	.	-	0	ID=ANNDHMIN_747309;Name=dasB_44;db_xref=COG:COG1175;gene=dasB_44;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9K490;locus_tag=ANNDHMIN_747309;product=Diacetylchitobiose uptake system permease protein DasB
+c_000000394855	Prodigal:002006	CDS	97	618	.	-	0	ID=ANNDHMIN_747310;eC_number=2.7.7.3;Name=coaD_105;db_xref=COG:COG0669;gene=coaD_105;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8ZJN9;locus_tag=ANNDHMIN_747310;product=Phosphopantetheine adenylyltransferase
+c_000000394855	Prodigal:002006	CDS	628	774	.	-	0	ID=ANNDHMIN_747311;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747311;product=hypothetical protein
+c_000000394855	Prodigal:002006	CDS	957	1202	.	-	0	ID=ANNDHMIN_747312;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747312;product=hypothetical protein
+c_000000394856	Prodigal:002006	CDS	38	871	.	+	0	ID=ANNDHMIN_747313;eC_number=3.5.1.47;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01692;locus_tag=ANNDHMIN_747313;product=N-acetyldiaminopimelate deacetylase
+c_000000394856	Prodigal:002006	CDS	924	1574	.	+	0	ID=ANNDHMIN_747314;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AGM2;locus_tag=ANNDHMIN_747314;note=UPF0126 inner membrane protein YicG;product=hypothetical protein
+c_000000394857	Prodigal:002006	CDS	67	258	.	+	0	ID=ANNDHMIN_747315;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747315;product=hypothetical protein
+c_000000394857	Prodigal:002006	CDS	370	804	.	+	0	ID=ANNDHMIN_747316;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747316;product=hypothetical protein
+c_000000394858	Prodigal:002006	CDS	251	943	.	-	0	ID=ANNDHMIN_747317;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747317;product=hypothetical protein
+c_000000394858	Prodigal:002006	CDS	995	2530	.	+	0	ID=ANNDHMIN_747318;eC_number=6.2.1.3;db_xref=COG:COG0318;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q5SKN9;locus_tag=ANNDHMIN_747318;product=Long-chain-fatty-acid--CoA ligase
+c_000000394858	Prodigal:002006	CDS	2657	3718	.	+	0	ID=ANNDHMIN_747319;eC_number=1.-.-.-;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O53565;locus_tag=ANNDHMIN_747319;product=Putative coenzyme F420-dependent oxidoreductase
+c_000000394858	Prodigal:002006	CDS	3711	4505	.	+	0	ID=ANNDHMIN_747320;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P95279;locus_tag=ANNDHMIN_747320;product=Putative enoyl-CoA hydratase EchA13
+c_000000394858	Prodigal:002006	CDS	4525	5328	.	+	0	ID=ANNDHMIN_747321;eC_number=4.2.1.17;db_xref=COG:COG1024;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WNN7;locus_tag=ANNDHMIN_747321;product=putative enoyl-CoA hydratase echA12
+c_000000394858	Prodigal:002006	CDS	5367	6359	.	+	0	ID=ANNDHMIN_747322;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747322;product=hypothetical protein
+c_000000394859	Prodigal:002006	CDS	120	491	.	-	0	ID=ANNDHMIN_747323;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747323;product=hypothetical protein
+c_000000394859	Prodigal:002006	CDS	831	1193	.	-	0	ID=ANNDHMIN_747324;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747324;product=hypothetical protein
+c_000000394860	Prodigal:002006	CDS	156	359	.	+	0	ID=ANNDHMIN_747325;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747325;product=hypothetical protein
+c_000000394860	Prodigal:002006	CDS	482	1516	.	-	0	ID=ANNDHMIN_747326;Name=naiP_50;gene=naiP_50;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O34691;locus_tag=ANNDHMIN_747326;product=Putative niacin/nicotinamide transporter NaiP
+c_000000394861	Prodigal:002006	CDS	4	408	.	+	0	ID=ANNDHMIN_747327;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747327;product=hypothetical protein
+c_000000394861	Prodigal:002006	CDS	312	728	.	-	0	ID=ANNDHMIN_747328;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747328;product=hypothetical protein
+c_000000394862	Prodigal:002006	CDS	8	403	.	+	0	ID=ANNDHMIN_747329;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747329;product=hypothetical protein
+c_000000394863	Prodigal:002006	CDS	218	439	.	+	0	ID=ANNDHMIN_747330;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747330;product=hypothetical protein
+c_000000394864	Prodigal:002006	CDS	135	344	.	+	0	ID=ANNDHMIN_747331;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747331;product=hypothetical protein
+c_000000394864	Aragorn:001002	tRNA	402	476	.	+	.	ID=ANNDHMIN_747332;inference=COORDINATES:profile:Aragorn:001002;locus_tag=ANNDHMIN_747332;product=tRNA-Gly(ccc)
+c_000000394864	Prodigal:002006	CDS	481	810	.	-	0	ID=ANNDHMIN_747333;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747333;product=hypothetical protein
+c_000000394865	Prodigal:002006	CDS	39	461	.	+	0	ID=ANNDHMIN_747334;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747334;product=hypothetical protein
+c_000000394865	Prodigal:002006	CDS	468	848	.	+	0	ID=ANNDHMIN_747335;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747335;product=hypothetical protein
+c_000000394865	Prodigal:002006	CDS	829	990	.	-	0	ID=ANNDHMIN_747336;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747336;product=hypothetical protein
+c_000000394865	Prodigal:002006	CDS	1056	1277	.	-	0	ID=ANNDHMIN_747337;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747337;product=hypothetical protein
+c_000000394866	Prodigal:002006	CDS	101	1210	.	-	0	ID=ANNDHMIN_747338;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747338;product=hypothetical protein
+c_000000394867	Prodigal:002006	CDS	105	749	.	+	0	ID=ANNDHMIN_747339;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747339;product=hypothetical protein
+c_000000394868	Prodigal:002006	CDS	92	1477	.	-	0	ID=ANNDHMIN_747340;Name=naiP_51;gene=naiP_51;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O34691;locus_tag=ANNDHMIN_747340;product=Putative niacin/nicotinamide transporter NaiP
+c_000000394868	Prodigal:002006	CDS	1517	1828	.	-	0	ID=ANNDHMIN_747341;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747341;product=hypothetical protein
+c_000000394869	Prodigal:002006	CDS	37	177	.	+	0	ID=ANNDHMIN_747342;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747342;product=hypothetical protein
+c_000000394869	Prodigal:002006	CDS	376	987	.	+	0	ID=ANNDHMIN_747343;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747343;product=hypothetical protein
+c_000000394869	Prodigal:002006	CDS	958	1242	.	-	0	ID=ANNDHMIN_747344;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747344;product=hypothetical protein
+c_000000394871	Prodigal:002006	CDS	121	315	.	+	0	ID=ANNDHMIN_747345;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747345;product=hypothetical protein
+c_000000394871	Prodigal:002006	CDS	1173	1514	.	-	0	ID=ANNDHMIN_747346;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747346;product=hypothetical protein
+c_000000394872	Prodigal:002006	CDS	675	914	.	-	0	ID=ANNDHMIN_747347;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747347;product=hypothetical protein
+c_000000394873	Prodigal:002006	CDS	83	1039	.	-	0	ID=ANNDHMIN_747348;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747348;product=hypothetical protein
+c_000000394874	Prodigal:002006	CDS	190	624	.	-	0	ID=ANNDHMIN_747349;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747349;product=hypothetical protein
+c_000000394874	Prodigal:002006	CDS	894	1490	.	+	0	ID=ANNDHMIN_747350;Name=shbA_6;gene=shbA_6;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:B1W3T1;locus_tag=ANNDHMIN_747350;product=ECF RNA polymerase sigma factor ShbA
+c_000000394875	Prodigal:002006	CDS	456	1019	.	-	0	ID=ANNDHMIN_747351;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747351;product=hypothetical protein
+c_000000394876	Prodigal:002006	CDS	318	1601	.	+	0	ID=ANNDHMIN_747352;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747352;product=hypothetical protein
+c_000000394876	Prodigal:002006	CDS	1609	2013	.	-	0	ID=ANNDHMIN_747353;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747353;product=hypothetical protein
+c_000000394876	Prodigal:002006	CDS	2143	2271	.	+	0	ID=ANNDHMIN_747354;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747354;product=hypothetical protein
+c_000000394876	Prodigal:002006	CDS	2292	2534	.	-	0	ID=ANNDHMIN_747355;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747355;product=hypothetical protein
+c_000000394877	Prodigal:002006	CDS	413	646	.	+	0	ID=ANNDHMIN_747356;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747356;product=hypothetical protein
+c_000000394877	Prodigal:002006	CDS	1451	1750	.	+	0	ID=ANNDHMIN_747357;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747357;product=hypothetical protein
+c_000000394878	Prodigal:002006	CDS	3	461	.	+	0	ID=ANNDHMIN_747358;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747358;product=hypothetical protein
+c_000000394878	Prodigal:002006	CDS	713	2023	.	-	0	ID=ANNDHMIN_747359;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747359;product=hypothetical protein
+c_000000394879	Prodigal:002006	CDS	56	178	.	-	0	ID=ANNDHMIN_747360;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747360;product=hypothetical protein
+c_000000394879	Prodigal:002006	CDS	464	1078	.	-	0	ID=ANNDHMIN_747361;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747361;product=hypothetical protein
+c_000000394880	Prodigal:002006	CDS	127	324	.	+	0	ID=ANNDHMIN_747362;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747362;product=hypothetical protein
+c_000000394880	Prodigal:002006	CDS	324	683	.	+	0	ID=ANNDHMIN_747363;Name=rplT_88;db_xref=COG:COG0292;gene=rplT_88;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A0QYU6;locus_tag=ANNDHMIN_747363;product=50S ribosomal protein L20
+c_000000394881	Prodigal:002006	CDS	83	307	.	-	0	ID=ANNDHMIN_747364;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747364;product=hypothetical protein
+c_000000394882	Prodigal:002006	CDS	551	1288	.	-	0	ID=ANNDHMIN_747365;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747365;product=hypothetical protein
+c_000000394884	Prodigal:002006	CDS	9	467	.	+	0	ID=ANNDHMIN_747366;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747366;product=hypothetical protein
+c_000000394886	Prodigal:002006	CDS	649	867	.	-	0	ID=ANNDHMIN_747367;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747367;product=hypothetical protein
+c_000000394887	Prodigal:002006	CDS	98	286	.	-	0	ID=ANNDHMIN_747368;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747368;product=hypothetical protein
+c_000000394887	Prodigal:002006	CDS	301	825	.	-	0	ID=ANNDHMIN_747369;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747369;product=hypothetical protein
+c_000000394888	Prodigal:002006	CDS	16	156	.	+	0	ID=ANNDHMIN_747370;Name=rplF_100;db_xref=COG:COG0097;gene=rplF_100;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q6N4U8;locus_tag=ANNDHMIN_747370;product=50S ribosomal protein L6
+c_000000394888	Prodigal:002006	CDS	166	528	.	+	0	ID=ANNDHMIN_747371;Name=rplR_87;db_xref=COG:COG0256;gene=rplR_87;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q6N4U9;locus_tag=ANNDHMIN_747371;product=50S ribosomal protein L18
+c_000000394888	Prodigal:002006	CDS	537	848	.	-	0	ID=ANNDHMIN_747372;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747372;product=hypothetical protein
+c_000000394889	Prodigal:002006	CDS	401	1108	.	-	0	ID=ANNDHMIN_747373;eC_number=2.8.3.5;Name=scoA_36;db_xref=COG:COG1788;gene=scoA_36;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P42315;locus_tag=ANNDHMIN_747373;product=putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+c_000000394891	Prodigal:002006	CDS	108	980	.	+	0	ID=ANNDHMIN_747374;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747374;product=hypothetical protein
+c_000000394892	Prodigal:002006	CDS	4	600	.	+	0	ID=ANNDHMIN_747375;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747375;product=hypothetical protein
+c_000000394892	Prodigal:002006	CDS	635	1423	.	-	0	ID=ANNDHMIN_747376;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747376;product=hypothetical protein
+c_000000394893	Prodigal:002006	CDS	199	960	.	-	0	ID=ANNDHMIN_747377;eC_number=4.2.1.17;Name=dpgD_83;gene=dpgD_83;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:G4V4T7;locus_tag=ANNDHMIN_747377;product=Enoyl-CoA-hydratase
+c_000000394894	Prodigal:002006	CDS	248	757	.	-	0	ID=ANNDHMIN_747378;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747378;product=hypothetical protein
+c_000000394895	Prodigal:002006	CDS	15	242	.	+	0	ID=ANNDHMIN_747379;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747379;product=hypothetical protein
+c_000000394895	Prodigal:002006	CDS	733	1263	.	-	0	ID=ANNDHMIN_747380;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747380;product=hypothetical protein
+c_000000394895	Prodigal:002006	CDS	1268	1405	.	-	0	ID=ANNDHMIN_747381;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747381;product=hypothetical protein
+c_000000394896	Prodigal:002006	CDS	232	468	.	+	0	ID=ANNDHMIN_747382;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747382;product=hypothetical protein
+c_000000394896	Prodigal:002006	CDS	634	924	.	+	0	ID=ANNDHMIN_747383;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747383;product=hypothetical protein
+c_000000394897	Prodigal:002006	CDS	276	632	.	+	0	ID=ANNDHMIN_747384;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747384;product=hypothetical protein
+c_000000394897	Prodigal:002006	CDS	687	848	.	+	0	ID=ANNDHMIN_747385;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747385;product=hypothetical protein
+c_000000394897	Prodigal:002006	CDS	1074	1631	.	-	0	ID=ANNDHMIN_747386;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:B3EWP1;locus_tag=ANNDHMIN_747386;note=UPF0065 protein in clcB-clcD intergenic region;product=hypothetical protein
+c_000000394898	Prodigal:002006	CDS	410	631	.	+	0	ID=ANNDHMIN_747387;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747387;product=hypothetical protein
+c_000000394899	Prodigal:002006	CDS	857	1288	.	+	0	ID=ANNDHMIN_747388;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747388;product=hypothetical protein
+c_000000394900	Prodigal:002006	CDS	73	378	.	+	0	ID=ANNDHMIN_747389;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747389;product=hypothetical protein
+c_000000394900	Prodigal:002006	CDS	368	475	.	+	0	ID=ANNDHMIN_747390;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747390;product=hypothetical protein
+c_000000394900	Prodigal:002006	CDS	903	1175	.	-	0	ID=ANNDHMIN_747391;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747391;product=hypothetical protein
+c_000000394901	Prodigal:002006	CDS	45	824	.	+	0	ID=ANNDHMIN_747392;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747392;product=hypothetical protein
+c_000000394902	Prodigal:002006	CDS	128	2131	.	+	0	ID=ANNDHMIN_747393;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747393;product=hypothetical protein
+c_000000394902	Prodigal:002006	CDS	2150	2362	.	-	0	ID=ANNDHMIN_747394;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747394;product=hypothetical protein
+c_000000394903	Prodigal:002006	CDS	551	997	.	+	0	ID=ANNDHMIN_747395;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747395;product=hypothetical protein
+c_000000394904	Prodigal:002006	CDS	40	768	.	+	0	ID=ANNDHMIN_747396;eC_number=3.5.1.94;Name=puuD_21;db_xref=COG:COG2071;gene=puuD_21;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P76038;locus_tag=ANNDHMIN_747396;product=Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+c_000000394904	Prodigal:002006	CDS	797	973	.	-	0	ID=ANNDHMIN_747397;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747397;product=hypothetical protein
+c_000000394906	Prodigal:002006	CDS	247	927	.	+	0	ID=ANNDHMIN_747398;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747398;product=hypothetical protein
+c_000000394906	Prodigal:002006	CDS	1137	1415	.	+	0	ID=ANNDHMIN_747399;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747399;product=hypothetical protein
+c_000000394907	Prodigal:002006	CDS	228	680	.	+	0	ID=ANNDHMIN_747400;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747400;product=hypothetical protein
+c_000000394908	Prodigal:002006	CDS	9	167	.	+	0	ID=ANNDHMIN_747401;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747401;product=hypothetical protein
+c_000000394908	Prodigal:002006	CDS	172	912	.	+	0	ID=ANNDHMIN_747402;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747402;product=hypothetical protein
+c_000000394909	Prodigal:002006	CDS	229	1026	.	+	0	ID=ANNDHMIN_747403;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747403;product=hypothetical protein
+c_000000394909	Prodigal:002006	CDS	1016	1231	.	-	0	ID=ANNDHMIN_747404;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747404;product=hypothetical protein
+c_000000394910	Prodigal:002006	CDS	20	172	.	+	0	ID=ANNDHMIN_747405;eC_number=1.1.99.1;Name=betA_153;gene=betA_153;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P60337;locus_tag=ANNDHMIN_747405;product=Oxygen-dependent choline dehydrogenase
+c_000000394910	Prodigal:002006	CDS	330	1310	.	-	0	ID=ANNDHMIN_747406;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:B3EWP1;locus_tag=ANNDHMIN_747406;note=UPF0065 protein in clcB-clcD intergenic region;product=hypothetical protein
+c_000000394910	Prodigal:002006	CDS	1491	2015	.	+	0	ID=ANNDHMIN_747407;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747407;product=hypothetical protein
+c_000000394910	Prodigal:002006	CDS	2186	3736	.	-	0	ID=ANNDHMIN_747408;eC_number=2.7.-.-;Name=sasA_837;gene=sasA_837;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01837;locus_tag=ANNDHMIN_747408;product=Adaptive-response sensory-kinase SasA
+c_000000394911	Prodigal:002006	CDS	184	1182	.	-	0	ID=ANNDHMIN_747409;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747409;product=hypothetical protein
+c_000000394912	Prodigal:002006	CDS	39	206	.	+	0	ID=ANNDHMIN_747410;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747410;product=hypothetical protein
+c_000000394912	Prodigal:002006	CDS	127	1113	.	-	0	ID=ANNDHMIN_747411;Name=purR_40;gene=purR_40;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01277;locus_tag=ANNDHMIN_747411;product=HTH-type transcriptional repressor PurR
+c_000000394913	Prodigal:002006	CDS	8	787	.	+	0	ID=ANNDHMIN_747412;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747412;product=hypothetical protein
+c_000000394913	Prodigal:002006	CDS	1082	1525	.	-	0	ID=ANNDHMIN_747413;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747413;product=hypothetical protein
+c_000000394915	Prodigal:002006	CDS	131	1021	.	-	0	ID=ANNDHMIN_747414;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747414;product=hypothetical protein
+c_000000394916	Prodigal:002006	CDS	20	988	.	+	0	ID=ANNDHMIN_747415;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747415;product=hypothetical protein
+c_000000394917	Prodigal:002006	CDS	50	1030	.	-	0	ID=ANNDHMIN_747416;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747416;product=hypothetical protein
+c_000000394918	Prodigal:002006	CDS	232	783	.	-	0	ID=ANNDHMIN_747417;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747417;product=hypothetical protein
+c_000000394918	Prodigal:002006	CDS	821	1039	.	-	0	ID=ANNDHMIN_747418;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747418;product=hypothetical protein
+c_000000394919	Prodigal:002006	CDS	150	350	.	-	0	ID=ANNDHMIN_747419;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747419;product=hypothetical protein
+c_000000394919	Prodigal:002006	CDS	370	978	.	+	0	ID=ANNDHMIN_747420;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747420;product=hypothetical protein
+c_000000394920	Prodigal:002006	CDS	63	653	.	+	0	ID=ANNDHMIN_747421;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747421;product=hypothetical protein
+c_000000394922	Prodigal:002006	CDS	298	2169	.	+	0	ID=ANNDHMIN_747422;Name=smc_123;gene=smc_123;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01894;locus_tag=ANNDHMIN_747422;product=Chromosome partition protein Smc
+c_000000394922	Prodigal:002006	CDS	2156	3274	.	+	0	ID=ANNDHMIN_747423;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747423;product=hypothetical protein
+c_000000394922	Prodigal:002006	CDS	3283	3738	.	+	0	ID=ANNDHMIN_747424;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747424;product=hypothetical protein
+c_000000394923	Prodigal:002006	CDS	113	466	.	+	0	ID=ANNDHMIN_747425;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747425;product=hypothetical protein
+c_000000394923	Prodigal:002006	CDS	643	1158	.	-	0	ID=ANNDHMIN_747426;eC_number=2.7.1.40;Name=pyk_44;gene=pyk_44;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q02499;locus_tag=ANNDHMIN_747426;product=Pyruvate kinase
+c_000000394924	Prodigal:002006	CDS	19	600	.	+	0	ID=ANNDHMIN_747427;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747427;product=hypothetical protein
+c_000000394924	Prodigal:002006	CDS	620	1153	.	-	0	ID=ANNDHMIN_747428;eC_number=2.7.1.148;Name=ispE_73;gene=ispE_73;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00061;locus_tag=ANNDHMIN_747428;product=Putative 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+c_000000394925	Prodigal:002006	CDS	1005	1802	.	-	0	ID=ANNDHMIN_747429;eC_number=2.1.1.258;Name=acsE_16;db_xref=COG:COG1410;gene=acsE_16;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q46389;locus_tag=ANNDHMIN_747429;product=5-methyltetrahydrofolate:corrinoid/iron-sulfur protein co-methyltransferase
+c_000000394926	Prodigal:002006	CDS	9	161	.	+	0	ID=ANNDHMIN_747430;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747430;product=hypothetical protein
+c_000000394926	Prodigal:002006	CDS	509	724	.	+	0	ID=ANNDHMIN_747431;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747431;product=hypothetical protein
+c_000000394927	Prodigal:002006	CDS	13	558	.	+	0	ID=ANNDHMIN_747432;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747432;product=hypothetical protein
+c_000000394928	Prodigal:002006	CDS	254	733	.	+	0	ID=ANNDHMIN_747433;Name=mraZ_86;gene=mraZ_86;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01008;locus_tag=ANNDHMIN_747433;product=Transcriptional regulator MraZ
+c_000000394928	Prodigal:002006	CDS	754	1122	.	-	0	ID=ANNDHMIN_747434;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747434;product=hypothetical protein
+c_000000394929	Prodigal:002006	CDS	307	840	.	+	0	ID=ANNDHMIN_747435;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747435;product=hypothetical protein
+c_000000394930	Prodigal:002006	CDS	23	595	.	+	0	ID=ANNDHMIN_747436;eC_number=3.2.2.21;Name=alkA_65;db_xref=COG:COG0122;gene=alkA_65;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P37878;locus_tag=ANNDHMIN_747436;product=DNA-3-methyladenine glycosylase
+c_000000394930	Prodigal:002006	CDS	592	1617	.	+	0	ID=ANNDHMIN_747437;eC_number=2.3.1.189;Name=mshD_132;gene=mshD_132;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01698;locus_tag=ANNDHMIN_747437;product=Mycothiol acetyltransferase
+c_000000394930	Prodigal:002006	CDS	1617	2195	.	+	0	ID=ANNDHMIN_747438;Name=sspA_31;db_xref=COG:COG0625;gene=sspA_31;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P45207;locus_tag=ANNDHMIN_747438;product=Stringent starvation protein A 
+c_000000394931	Prodigal:002006	CDS	23	301	.	+	0	ID=ANNDHMIN_747439;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747439;product=hypothetical protein
+c_000000394931	Prodigal:002006	CDS	948	1679	.	-	0	ID=ANNDHMIN_747440;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747440;product=hypothetical protein
+c_000000394933	Prodigal:002006	CDS	168	389	.	-	0	ID=ANNDHMIN_747441;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747441;product=hypothetical protein
+c_000000394934	Prodigal:002006	CDS	58	1020	.	-	0	ID=ANNDHMIN_747442;eC_number=6.3.4.13;Name=purD_91;db_xref=COG:COG0151;gene=purD_91;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O66949;locus_tag=ANNDHMIN_747442;product=Phosphoribosylamine--glycine ligase
+c_000000394936	Prodigal:002006	CDS	519	746	.	+	0	ID=ANNDHMIN_747443;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747443;product=hypothetical protein
+c_000000394937	Prodigal:002006	CDS	302	946	.	+	0	ID=ANNDHMIN_747444;Name=rbsC_125;db_xref=COG:COG1172;gene=rbsC_125;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AGI1;locus_tag=ANNDHMIN_747444;product=Ribose import permease protein RbsC
+c_000000394937	Prodigal:002006	CDS	950	1732	.	+	0	ID=ANNDHMIN_747445;eC_number=7.5.2.-;Name=frcA_69;db_xref=COG:COG1129;gene=frcA_69;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9F9B0;locus_tag=ANNDHMIN_747445;product=Fructose import ATP-binding protein FrcA
+c_000000394938	Prodigal:002006	CDS	73	756	.	+	0	ID=ANNDHMIN_747446;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747446;product=hypothetical protein
+c_000000394938	Prodigal:002006	CDS	833	1003	.	-	0	ID=ANNDHMIN_747447;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747447;product=hypothetical protein
+c_000000394939	Prodigal:002006	CDS	269	1195	.	-	0	ID=ANNDHMIN_747448;eC_number=2.4.2.43;Name=arnT_44;gene=arnT_44;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01165;locus_tag=ANNDHMIN_747448;product=Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+c_000000394940	Prodigal:002006	CDS	144	1349	.	-	0	ID=ANNDHMIN_747449;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747449;product=hypothetical protein
+c_000000394940	Prodigal:002006	CDS	1404	2129	.	-	0	ID=ANNDHMIN_747450;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747450;product=hypothetical protein
+c_000000394941	Prodigal:002006	CDS	178	1143	.	-	0	ID=ANNDHMIN_747451;eC_number=2.7.13.3;Name=resE_61;gene=resE_61;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P35164;locus_tag=ANNDHMIN_747451;product=Sensor histidine kinase ResE
+c_000000394942	Prodigal:002006	CDS	52	582	.	+	0	ID=ANNDHMIN_747452;eC_number=2.3.1.286;Name=cobB_109;db_xref=COG:COG0846;gene=cobB_109;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9WYW0;locus_tag=ANNDHMIN_747452;product=NAD-dependent protein deacetylase
+c_000000394942	Prodigal:002006	CDS	563	730	.	-	0	ID=ANNDHMIN_747453;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747453;product=hypothetical protein
+c_000000394943	Prodigal:002006	CDS	6	938	.	-	0	ID=ANNDHMIN_747454;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747454;product=hypothetical protein
+c_000000394944	Prodigal:002006	CDS	362	502	.	+	0	ID=ANNDHMIN_747455;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747455;product=hypothetical protein
+c_000000394945	Prodigal:002006	CDS	45	227	.	+	0	ID=ANNDHMIN_747456;eC_number=4.2.1.-;Name=hypE_17;gene=hypE_17;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P31905;locus_tag=ANNDHMIN_747456;product=Carbamoyl dehydratase HypE
+c_000000394945	Prodigal:002006	CDS	353	1321	.	-	0	ID=ANNDHMIN_747457;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747457;product=hypothetical protein
+c_000000394946	Prodigal:002006	CDS	295	480	.	+	0	ID=ANNDHMIN_747458;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747458;product=hypothetical protein
+c_000000394946	Prodigal:002006	CDS	550	870	.	-	0	ID=ANNDHMIN_747459;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747459;product=hypothetical protein
+c_000000394947	Prodigal:002006	CDS	171	437	.	+	0	ID=ANNDHMIN_747460;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747460;product=hypothetical protein
+c_000000394947	Prodigal:002006	CDS	417	695	.	-	0	ID=ANNDHMIN_747461;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747461;product=hypothetical protein
+c_000000394948	Prodigal:002006	CDS	125	709	.	-	0	ID=ANNDHMIN_747462;Name=rhtB_46;db_xref=COG:COG1280;gene=rhtB_46;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AG34;locus_tag=ANNDHMIN_747462;product=Homoserine/homoserine lactone efflux protein
+c_000000394949	Prodigal:002006	CDS	358	1197	.	+	0	ID=ANNDHMIN_747463;eC_number=1.5.1.39;Name=nfrA2_15;db_xref=COG:COG0778;gene=nfrA2_15;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P94424;locus_tag=ANNDHMIN_747463;product=FMN reductase [NAD(P)H]
+c_000000394949	Prodigal:002006	CDS	1206	1445	.	-	0	ID=ANNDHMIN_747464;Name=tusA_39;db_xref=COG:COG0425;gene=tusA_39;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:D3RPC0;locus_tag=ANNDHMIN_747464;product=Sulfur carrier protein TusA
+c_000000394949	Prodigal:002006	CDS	1442	1798	.	-	0	ID=ANNDHMIN_747465;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747465;product=hypothetical protein
+c_000000394950	Prodigal:002006	CDS	472	912	.	+	0	ID=ANNDHMIN_747466;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747466;product=hypothetical protein
+c_000000394950	Prodigal:002006	CDS	786	1379	.	-	0	ID=ANNDHMIN_747467;eC_number=2.7.4.9;Name=tmk_95;db_xref=COG:COG0125;gene=tmk_95;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O67099;locus_tag=ANNDHMIN_747467;product=Thymidylate kinase
+c_000000394951	Prodigal:002006	CDS	2	913	.	-	0	ID=ANNDHMIN_747468;eC_number=1.1.1.37;Name=mdh_87;db_xref=COG:COG0039;gene=mdh_87;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P49814;locus_tag=ANNDHMIN_747468;product=Malate dehydrogenase
+c_000000394951	Prodigal:002006	CDS	925	1299	.	-	0	ID=ANNDHMIN_747469;eC_number=1.1.1.42;Name=icd_96;db_xref=COG:COG0473;gene=icd_96;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P33197;locus_tag=ANNDHMIN_747469;product=Isocitrate dehydrogenase [NADP]
+c_000000394952	Prodigal:002006	CDS	70	321	.	+	0	ID=ANNDHMIN_747470;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747470;product=hypothetical protein
+c_000000394952	Prodigal:002006	CDS	393	1331	.	+	0	ID=ANNDHMIN_747471;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747471;product=hypothetical protein
+c_000000394953	Prodigal:002006	CDS	12	578	.	+	0	ID=ANNDHMIN_747472;eC_number=1.9.3.1;Name=ctaD_142;db_xref=COG:COG0843;gene=ctaD_142;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P31833;locus_tag=ANNDHMIN_747472;product=Cytochrome c oxidase subunit 1
+c_000000394953	Prodigal:002006	CDS	893	1132	.	-	0	ID=ANNDHMIN_747473;Name=tatC_90;gene=tatC_90;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00902;locus_tag=ANNDHMIN_747473;product=Sec-independent protein translocase protein TatC
+c_000000394954	Prodigal:002006	CDS	100	759	.	-	0	ID=ANNDHMIN_747474;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747474;product=hypothetical protein
+c_000000394955	Prodigal:002006	CDS	406	1095	.	-	0	ID=ANNDHMIN_747475;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747475;product=hypothetical protein
+c_000000394956	Prodigal:002006	CDS	365	1801	.	+	0	ID=ANNDHMIN_747476;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747476;product=hypothetical protein
+c_000000394957	Prodigal:002006	CDS	202	1866	.	-	0	ID=ANNDHMIN_747477;eC_number=4.2.1.3;Name=acnB_2;db_xref=COG:COG1049;gene=acnB_2;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8ZRS8;locus_tag=ANNDHMIN_747477;product=Aconitate hydratase B
+c_000000394958	Prodigal:002006	CDS	25	153	.	+	0	ID=ANNDHMIN_747478;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747478;product=hypothetical protein
+c_000000394958	Prodigal:002006	CDS	179	970	.	+	0	ID=ANNDHMIN_747479;eC_number=3.6.1.8;Name=mazG_73;db_xref=COG:COG1694;gene=mazG_73;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AEY3;locus_tag=ANNDHMIN_747479;product=Nucleoside triphosphate pyrophosphohydrolase
+c_000000394958	Prodigal:002006	CDS	940	1656	.	-	0	ID=ANNDHMIN_747480;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747480;product=hypothetical protein
+c_000000394959	Prodigal:002006	CDS	141	761	.	+	0	ID=ANNDHMIN_747481;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747481;product=hypothetical protein
+c_000000394959	Prodigal:002006	CDS	737	1459	.	-	0	ID=ANNDHMIN_747482;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747482;product=hypothetical protein
+c_000000394960	Prodigal:002006	CDS	278	412	.	+	0	ID=ANNDHMIN_747483;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747483;product=hypothetical protein
+c_000000394961	Prodigal:002006	CDS	76	489	.	+	0	ID=ANNDHMIN_747484;eC_number=6.3.4.5;Name=argG_70;db_xref=COG:COG0137;gene=argG_70;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9PHK7;locus_tag=ANNDHMIN_747484;product=Argininosuccinate synthase
+c_000000394961	Prodigal:002006	CDS	571	1083	.	-	0	ID=ANNDHMIN_747485;eC_number=1.3.5.1;Name=sdhB_55;db_xref=COG:COG0479;gene=sdhB_55;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P07014;locus_tag=ANNDHMIN_747485;product=Succinate dehydrogenase iron-sulfur subunit
+c_000000394962	Prodigal:002006	CDS	66	485	.	+	0	ID=ANNDHMIN_747486;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747486;product=hypothetical protein
+c_000000394962	Prodigal:002006	CDS	497	1048	.	-	0	ID=ANNDHMIN_747487;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747487;product=hypothetical protein
+c_000000394963	Prodigal:002006	CDS	614	2776	.	-	0	ID=ANNDHMIN_747488;eC_number=2.4.1.230;Name=kojP_11;gene=kojP_11;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8L163;locus_tag=ANNDHMIN_747488;product=Kojibiose phosphorylase
+c_000000394964	Prodigal:002006	CDS	54	503	.	+	0	ID=ANNDHMIN_747489;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747489;product=hypothetical protein
+c_000000394964	Prodigal:002006	CDS	440	973	.	-	0	ID=ANNDHMIN_747490;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747490;product=hypothetical protein
+c_000000394965	Prodigal:002006	CDS	669	1097	.	-	0	ID=ANNDHMIN_747491;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:B3EWP1;locus_tag=ANNDHMIN_747491;note=UPF0065 protein in clcB-clcD intergenic region;product=hypothetical protein
+c_000000394966	Prodigal:002006	CDS	478	831	.	-	0	ID=ANNDHMIN_747492;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747492;product=hypothetical protein
+c_000000394967	Prodigal:002006	CDS	75	452	.	+	0	ID=ANNDHMIN_747493;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747493;product=hypothetical protein
+c_000000394967	Prodigal:002006	CDS	567	1094	.	+	0	ID=ANNDHMIN_747494;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747494;product=hypothetical protein
+c_000000394968	Prodigal:002006	CDS	533	1087	.	-	0	ID=ANNDHMIN_747495;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747495;product=hypothetical protein
+c_000000394969	Prodigal:002006	CDS	612	863	.	+	0	ID=ANNDHMIN_747496;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747496;product=hypothetical protein
+c_000000394969	Prodigal:002006	CDS	1025	1486	.	-	0	ID=ANNDHMIN_747497;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747497;product=hypothetical protein
+c_000000394971	Prodigal:002006	CDS	322	1626	.	+	0	ID=ANNDHMIN_747498;eC_number=4.4.1.3;Name=dddP_17;db_xref=COG:COG0006;gene=dddP_17;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A3SK19;locus_tag=ANNDHMIN_747498;product=Dimethlysulfonioproprionate lyase DddP
+c_000000394971	Prodigal:002006	CDS	1660	1830	.	-	0	ID=ANNDHMIN_747499;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747499;product=hypothetical protein
+c_000000394972	Prodigal:002006	CDS	34	723	.	+	0	ID=ANNDHMIN_747500;eC_number=4.2.1.162;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0DOV7;locus_tag=ANNDHMIN_747500;product=6-deoxy-6-sulfo-D-gluconate dehydratase
+c_000000394972	Prodigal:002006	CDS	865	1623	.	+	0	ID=ANNDHMIN_747501;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747501;product=hypothetical protein
+c_000000394973	Prodigal:002006	CDS	48	344	.	+	0	ID=ANNDHMIN_747502;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747502;product=hypothetical protein
+c_000000394973	Prodigal:002006	CDS	415	759	.	+	0	ID=ANNDHMIN_747503;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747503;product=hypothetical protein
+c_000000394973	Prodigal:002006	CDS	771	2039	.	-	0	ID=ANNDHMIN_747504;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747504;product=hypothetical protein
+c_000000394973	Prodigal:002006	CDS	2150	3256	.	-	0	ID=ANNDHMIN_747505;eC_number=1.13.11.5;Name=hmgA_52;db_xref=COG:COG3508;gene=hmgA_52;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9X4F5;locus_tag=ANNDHMIN_747505;product=Homogentisate 1%2C2-dioxygenase
+c_000000394973	Prodigal:002006	CDS	3338	3496	.	-	0	ID=ANNDHMIN_747506;eC_number=1.13.11.5;Name=hmgA_53;gene=hmgA_53;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00334;locus_tag=ANNDHMIN_747506;product=Homogentisate 1%2C2-dioxygenase
+c_000000394973	Prodigal:002006	CDS	3499	4314	.	-	0	ID=ANNDHMIN_747507;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747507;product=hypothetical protein
+c_000000394974	Prodigal:002006	CDS	219	965	.	-	0	ID=ANNDHMIN_747508;eC_number=2.1.1.77;Name=pcm_180;gene=pcm_180;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00090;locus_tag=ANNDHMIN_747508;product=Protein-L-isoaspartate O-methyltransferase
+c_000000394974	Prodigal:002006	CDS	1026	1934	.	-	0	ID=ANNDHMIN_747509;eC_number=3.1.1.92;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A6XIG6;locus_tag=ANNDHMIN_747509;product=4-sulfomuconolactone hydrolase
+c_000000394975	Prodigal:002006	CDS	16	639	.	+	0	ID=ANNDHMIN_747510;eC_number=4.2.1.83;Name=galB_17;db_xref=COG:COG2120;gene=galB_17;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q88JX8;locus_tag=ANNDHMIN_747510;product=4-oxalmesaconate hydratase
+c_000000394975	Prodigal:002006	CDS	620	973	.	-	0	ID=ANNDHMIN_747511;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747511;product=hypothetical protein
+c_000000394976	Prodigal:002006	CDS	754	930	.	-	0	ID=ANNDHMIN_747512;eC_number=3.5.1.1;Name=ansA_21;db_xref=COG:COG0252;gene=ansA_21;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9ZLB9;locus_tag=ANNDHMIN_747512;product=putative L-asparaginase
+c_000000394977	Prodigal:002006	CDS	16	990	.	+	0	ID=ANNDHMIN_747513;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747513;product=hypothetical protein
+c_000000394978	Prodigal:002006	CDS	1108	1605	.	-	0	ID=ANNDHMIN_747514;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747514;product=hypothetical protein
+c_000000394979	Prodigal:002006	CDS	40	888	.	+	0	ID=ANNDHMIN_747515;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747515;product=hypothetical protein
+c_000000394979	Prodigal:002006	CDS	1034	1195	.	-	0	ID=ANNDHMIN_747516;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747516;product=hypothetical protein
+c_000000394980	Prodigal:002006	CDS	46	690	.	+	0	ID=ANNDHMIN_747517;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747517;product=hypothetical protein
+c_000000394980	Prodigal:002006	CDS	1216	2565	.	+	0	ID=ANNDHMIN_747518;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747518;product=hypothetical protein
+c_000000394980	Prodigal:002006	CDS	2590	2784	.	+	0	ID=ANNDHMIN_747519;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747519;product=hypothetical protein
+c_000000394980	Prodigal:002006	CDS	2908	3255	.	+	0	ID=ANNDHMIN_747520;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747520;product=hypothetical protein
+c_000000394981	Aragorn:001002	tRNA	180	255	.	-	.	ID=ANNDHMIN_747521;inference=COORDINATES:profile:Aragorn:001002;locus_tag=ANNDHMIN_747521;product=tRNA-Arg(gcg)
+c_000000394981	Prodigal:002006	CDS	257	1108	.	-	0	ID=ANNDHMIN_747522;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747522;product=hypothetical protein
+c_000000394982	Prodigal:002006	CDS	2	205	.	+	0	ID=ANNDHMIN_747523;eC_number=4.2.2.-;Name=rlpA_225;gene=rlpA_225;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A0A0H2ZFV1;locus_tag=ANNDHMIN_747523;product=Endolytic peptidoglycan transglycosylase RlpA
+c_000000394982	Prodigal:002006	CDS	403	1827	.	+	0	ID=ANNDHMIN_747524;eC_number=2.1.1.331;Name=bchR_22;db_xref=COG:COG1032;gene=bchR_22;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8KCU0;locus_tag=ANNDHMIN_747524;product=Bacteriochlorophyllide d C-12(1)-methyltransferase
+c_000000394982	Prodigal:002006	CDS	1829	2467	.	-	0	ID=ANNDHMIN_747525;eC_number=3.5.4.16;Name=folE_127;db_xref=COG:COG0302;gene=folE_127;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8Y5X1;locus_tag=ANNDHMIN_747525;product=GTP cyclohydrolase 1
+c_000000394982	Prodigal:002006	CDS	2598	2828	.	-	0	ID=ANNDHMIN_747526;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747526;product=hypothetical protein
+c_000000394982	Prodigal:002006	CDS	2882	3121	.	-	0	ID=ANNDHMIN_747527;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747527;product=hypothetical protein
+c_000000394983	Prodigal:002006	CDS	127	432	.	-	0	ID=ANNDHMIN_747528;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747528;product=hypothetical protein
+c_000000394983	Prodigal:002006	CDS	446	892	.	-	0	ID=ANNDHMIN_747529;Name=yhfA_14;db_xref=COG:COG1765;gene=yhfA_14;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0ADX1;locus_tag=ANNDHMIN_747529;product=Protein YhfA
+c_000000394983	Prodigal:002006	CDS	1168	1599	.	-	0	ID=ANNDHMIN_747530;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747530;product=hypothetical protein
+c_000000394984	Prodigal:002006	CDS	201	359	.	-	0	ID=ANNDHMIN_747531;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747531;product=hypothetical protein
+c_000000394984	Prodigal:002006	CDS	546	845	.	-	0	ID=ANNDHMIN_747532;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747532;product=hypothetical protein
+c_000000394985	Prodigal:002006	CDS	204	1088	.	-	0	ID=ANNDHMIN_747533;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747533;product=hypothetical protein
+c_000000394987	Prodigal:002006	CDS	51	1400	.	+	0	ID=ANNDHMIN_747534;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747534;product=hypothetical protein
+c_000000394988	Prodigal:002006	CDS	475	1272	.	-	0	ID=ANNDHMIN_747535;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747535;product=hypothetical protein
+c_000000394989	Prodigal:002006	CDS	53	718	.	-	0	ID=ANNDHMIN_747536;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747536;product=hypothetical protein
+c_000000394989	Prodigal:002006	CDS	720	1265	.	-	0	ID=ANNDHMIN_747537;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747537;product=hypothetical protein
+c_000000394989	Prodigal:002006	CDS	1336	1647	.	+	0	ID=ANNDHMIN_747538;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747538;product=hypothetical protein
+c_000000394989	Prodigal:002006	CDS	1644	1934	.	+	0	ID=ANNDHMIN_747539;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747539;product=hypothetical protein
+c_000000394989	Prodigal:002006	CDS	1969	2292	.	-	0	ID=ANNDHMIN_747540;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747540;product=hypothetical protein
+c_000000394990	Prodigal:002006	CDS	401	973	.	-	0	ID=ANNDHMIN_747541;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747541;product=hypothetical protein
+c_000000394991	Prodigal:002006	CDS	1132	1338	.	-	0	ID=ANNDHMIN_747542;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747542;product=hypothetical protein
+c_000000394992	Prodigal:002006	CDS	557	1540	.	+	0	ID=ANNDHMIN_747543;eC_number=2.5.1.47;Name=cysK1_18;db_xref=COG:COG0031;gene=cysK1_18;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WP55;locus_tag=ANNDHMIN_747543;product=O-acetylserine sulfhydrylase
+c_000000394993	Prodigal:002006	CDS	182	376	.	-	0	ID=ANNDHMIN_747544;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747544;product=hypothetical protein
+c_000000394993	Prodigal:002006	CDS	761	1021	.	+	0	ID=ANNDHMIN_747545;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747545;product=hypothetical protein
+c_000000394993	Prodigal:002006	CDS	1133	3334	.	-	0	ID=ANNDHMIN_747546;eC_number=5.6.2.2;Name=gyrA_99;db_xref=COG:COG0188;gene=gyrA_99;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P37411;locus_tag=ANNDHMIN_747546;product=DNA gyrase subunit A
+c_000000394994	Prodigal:002006	CDS	170	1240	.	+	0	ID=ANNDHMIN_747547;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747547;product=hypothetical protein
+c_000000394994	Prodigal:002006	CDS	1262	2752	.	-	0	ID=ANNDHMIN_747548;eC_number=1.14.13.210;Name=dntB_69;gene=dntB_69;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q2PWU9;locus_tag=ANNDHMIN_747548;product=4-methyl-5-nitrocatechol 5-monooxygenase
+c_000000394995	Prodigal:002006	CDS	180	272	.	-	0	ID=ANNDHMIN_747549;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747549;product=hypothetical protein
+c_000000394995	Prodigal:002006	CDS	420	557	.	-	0	ID=ANNDHMIN_747550;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747550;product=hypothetical protein
+c_000000394996	Prodigal:002006	CDS	11	151	.	+	0	ID=ANNDHMIN_747551;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747551;product=hypothetical protein
+c_000000394997	Prodigal:002006	CDS	278	472	.	+	0	ID=ANNDHMIN_747552;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747552;product=hypothetical protein
+c_000000394997	Prodigal:002006	CDS	512	691	.	+	0	ID=ANNDHMIN_747553;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747553;product=hypothetical protein
+c_000000394997	Prodigal:002006	CDS	652	951	.	+	0	ID=ANNDHMIN_747554;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747554;product=hypothetical protein
+c_000000394997	Prodigal:002006	CDS	932	1060	.	-	0	ID=ANNDHMIN_747555;eC_number=1.14.13.92;Name=pamO_33;db_xref=COG:COG2072;gene=pamO_33;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q47PU3;locus_tag=ANNDHMIN_747555;product=Phenylacetone monooxygenase
+c_000000394998	Prodigal:002006	CDS	22	342	.	+	0	ID=ANNDHMIN_747556;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747556;product=hypothetical protein
+c_000000394998	Prodigal:002006	CDS	375	1727	.	-	0	ID=ANNDHMIN_747557;eC_number=2.6.1.19;Name=gabT_23;db_xref=COG:COG0160;gene=gabT_23;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WQ79;locus_tag=ANNDHMIN_747557;product=4-aminobutyrate aminotransferase
+c_000000394999	Prodigal:002006	CDS	625	1815	.	+	0	ID=ANNDHMIN_747558;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747558;product=hypothetical protein
+c_000000394999	Prodigal:002006	CDS	1927	2820	.	+	0	ID=ANNDHMIN_747559;Name=livH_885;db_xref=COG:COG0559;gene=livH_885;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AEX7;locus_tag=ANNDHMIN_747559;product=High-affinity branched-chain amino acid transport system permease protein LivH
+c_000000395000	Prodigal:002006	CDS	383	1843	.	-	0	ID=ANNDHMIN_747560;eC_number=1.1.1.205;Name=guaB_65;db_xref=COG:COG0516;gene=guaB_65;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P21879;locus_tag=ANNDHMIN_747560;product=Inosine-5'-monophosphate dehydrogenase
+c_000000395001	Prodigal:002006	CDS	304	441	.	+	0	ID=ANNDHMIN_747561;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747561;product=hypothetical protein
+c_000000395002	Prodigal:002006	CDS	31	990	.	-	0	ID=ANNDHMIN_747562;Name=fdhE_18;gene=fdhE_18;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00611;locus_tag=ANNDHMIN_747562;product=Protein FdhE
+c_000000395002	Prodigal:002006	CDS	1036	1365	.	+	0	ID=ANNDHMIN_747563;Name=erpA_88;db_xref=COG:COG0316;gene=erpA_88;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P45344;locus_tag=ANNDHMIN_747563;product=Iron-sulfur cluster insertion protein ErpA
+c_000000395003	Prodigal:002006	CDS	33	917	.	+	0	ID=ANNDHMIN_747564;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747564;product=hypothetical protein
+c_000000395004	Prodigal:002006	CDS	155	1447	.	-	0	ID=ANNDHMIN_747565;eC_number=6.5.1.2;Name=ligA_115;gene=ligA_115;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O87703;locus_tag=ANNDHMIN_747565;product=DNA ligase
+c_000000395005	Prodigal:002006	CDS	109	249	.	+	0	ID=ANNDHMIN_747566;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747566;product=hypothetical protein
+c_000000395005	Prodigal:002006	CDS	246	443	.	+	0	ID=ANNDHMIN_747567;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747567;product=hypothetical protein
+c_000000395005	Prodigal:002006	CDS	490	621	.	+	0	ID=ANNDHMIN_747568;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747568;product=hypothetical protein
+c_000000395005	Prodigal:002006	CDS	711	962	.	+	0	ID=ANNDHMIN_747569;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747569;product=hypothetical protein
+c_000000395005	Prodigal:002006	CDS	887	1309	.	-	0	ID=ANNDHMIN_747570;eC_number=1.2.1.-;Name=phnY_14;gene=phnY_14;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q92UV7;locus_tag=ANNDHMIN_747570;product=Phosphonoacetaldehyde dehydrogenase
+c_000000395006	Prodigal:002006	CDS	8	178	.	+	0	ID=ANNDHMIN_747571;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747571;product=hypothetical protein
+c_000000395006	Prodigal:002006	CDS	305	1285	.	-	0	ID=ANNDHMIN_747572;eC_number=4.1.99.22;Name=moaA_177;db_xref=COG:COG2896;gene=moaA_177;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P69848;locus_tag=ANNDHMIN_747572;product=GTP 3'%2C8-cyclase
+c_000000395006	Prodigal:002006	CDS	1334	1543	.	-	0	ID=ANNDHMIN_747573;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747573;product=hypothetical protein
+c_000000395006	Prodigal:002006	CDS	1626	1985	.	-	0	ID=ANNDHMIN_747574;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747574;product=hypothetical protein
+c_000000395007	Prodigal:002006	CDS	303	554	.	+	0	ID=ANNDHMIN_747575;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747575;product=hypothetical protein
+c_000000395007	Prodigal:002006	CDS	809	1027	.	-	0	ID=ANNDHMIN_747576;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747576;product=hypothetical protein
+c_000000395008	Prodigal:002006	CDS	833	1030	.	-	0	ID=ANNDHMIN_747577;eC_number=1.1.99.3;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O34214;locus_tag=ANNDHMIN_747577;product=Gluconate 2-dehydrogenase flavoprotein
+c_000000395009	Prodigal:002006	CDS	774	1022	.	+	0	ID=ANNDHMIN_747578;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747578;product=hypothetical protein
+c_000000395010	Prodigal:002006	CDS	6	779	.	+	0	ID=ANNDHMIN_747579;eC_number=4.2.1.32;Name=ttdA_23;db_xref=COG:COG1951;gene=ttdA_23;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P05847;locus_tag=ANNDHMIN_747579;product=L(+)-tartrate dehydratase subunit alpha
+c_000000395011	Prodigal:002006	CDS	62	379	.	+	0	ID=ANNDHMIN_747580;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747580;product=hypothetical protein
+c_000000395011	Prodigal:002006	CDS	376	648	.	-	0	ID=ANNDHMIN_747581;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747581;product=hypothetical protein
+c_000000395011	Prodigal:002006	CDS	871	1905	.	+	0	ID=ANNDHMIN_747582;Name=cytR_58;db_xref=COG:COG1609;gene=cytR_58;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0ACN7;locus_tag=ANNDHMIN_747582;product=HTH-type transcriptional repressor CytR
+c_000000395012	Prodigal:002006	CDS	92	499	.	-	0	ID=ANNDHMIN_747583;Name=hin_63;db_xref=COG:COG1961;gene=hin_63;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P03013;locus_tag=ANNDHMIN_747583;product=DNA-invertase hin
+c_000000395012	Prodigal:002006	CDS	1136	2140	.	-	0	ID=ANNDHMIN_747584;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747584;product=hypothetical protein
+c_000000395013	Prodigal:002006	CDS	15	185	.	+	0	ID=ANNDHMIN_747585;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747585;product=hypothetical protein
+c_000000395014	Prodigal:002006	CDS	47	214	.	+	0	ID=ANNDHMIN_747586;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747586;product=hypothetical protein
+c_000000395014	Prodigal:002006	CDS	641	1234	.	-	0	ID=ANNDHMIN_747587;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747587;product=hypothetical protein
+c_000000395015	Prodigal:002006	CDS	887	1033	.	+	0	ID=ANNDHMIN_747588;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747588;product=hypothetical protein
+c_000000395016	Prodigal:002006	CDS	79	423	.	+	0	ID=ANNDHMIN_747589;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747589;product=hypothetical protein
+c_000000395016	Prodigal:002006	CDS	381	827	.	-	0	ID=ANNDHMIN_747590;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747590;product=hypothetical protein
+c_000000395016	Prodigal:002006	CDS	940	1104	.	+	0	ID=ANNDHMIN_747591;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747591;product=hypothetical protein
+c_000000395016	Prodigal:002006	CDS	1187	1588	.	-	0	ID=ANNDHMIN_747592;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747592;product=hypothetical protein
+c_000000395016	Prodigal:002006	CDS	1786	2559	.	+	0	ID=ANNDHMIN_747593;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747593;product=hypothetical protein
+c_000000395016	Prodigal:002006	CDS	2376	3224	.	-	0	ID=ANNDHMIN_747594;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747594;product=hypothetical protein
+c_000000395017	Prodigal:002006	CDS	104	349	.	-	0	ID=ANNDHMIN_747595;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747595;product=hypothetical protein
+c_000000395017	Prodigal:002006	CDS	346	1140	.	-	0	ID=ANNDHMIN_747596;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747596;product=hypothetical protein
+c_000000395018	Prodigal:002006	CDS	6	350	.	+	0	ID=ANNDHMIN_747597;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747597;product=hypothetical protein
+c_000000395018	Prodigal:002006	CDS	393	530	.	+	0	ID=ANNDHMIN_747598;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747598;product=hypothetical protein
+c_000000395019	Prodigal:002006	CDS	317	472	.	+	0	ID=ANNDHMIN_747599;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747599;product=hypothetical protein
+c_000000395019	Prodigal:002006	CDS	855	947	.	-	0	ID=ANNDHMIN_747600;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747600;product=hypothetical protein
+c_000000395020	Prodigal:002006	CDS	172	840	.	+	0	ID=ANNDHMIN_747601;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747601;product=hypothetical protein
+c_000000395020	Prodigal:002006	CDS	867	1331	.	-	0	ID=ANNDHMIN_747602;eC_number=2.7.1.23;Name=ppnK_12;db_xref=COG:COG0061;gene=ppnK_12;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WHV7;locus_tag=ANNDHMIN_747602;product=NAD kinase
+c_000000395021	Prodigal:002006	CDS	28	216	.	+	0	ID=ANNDHMIN_747603;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747603;product=hypothetical protein
+c_000000395021	Prodigal:002006	CDS	603	1205	.	-	0	ID=ANNDHMIN_747604;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747604;product=hypothetical protein
+c_000000395022	Prodigal:002006	CDS	520	678	.	+	0	ID=ANNDHMIN_747605;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747605;product=hypothetical protein
+c_000000395022	Prodigal:002006	CDS	698	1234	.	-	0	ID=ANNDHMIN_747606;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747606;product=hypothetical protein
+c_000000395023	Prodigal:002006	CDS	22	201	.	+	0	ID=ANNDHMIN_747607;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747607;product=hypothetical protein
+c_000000395024	Prodigal:002006	CDS	21	1250	.	+	0	ID=ANNDHMIN_747608;db_xref=COG:COG2200;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9I310;locus_tag=ANNDHMIN_747608;product=putative signaling protein
+c_000000395025	Prodigal:002006	CDS	17	820	.	+	0	ID=ANNDHMIN_747609;Name=gltR_29;db_xref=COG:COG0583;gene=gltR_29;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P94501;locus_tag=ANNDHMIN_747609;product=HTH-type transcriptional regulator GltR
+c_000000395026	Prodigal:002006	CDS	12	914	.	+	0	ID=ANNDHMIN_747610;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747610;product=hypothetical protein
+c_000000395026	Prodigal:002006	CDS	1019	1774	.	-	0	ID=ANNDHMIN_747611;eC_number=3.6.1.41;Name=apaH_18;gene=apaH_18;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00199;locus_tag=ANNDHMIN_747611;product=Bis(5'-nucleosyl)-tetraphosphatase%2C symmetrical
+c_000000395027	Prodigal:002006	CDS	739	1131	.	-	0	ID=ANNDHMIN_747612;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747612;product=hypothetical protein
+c_000000395028	Prodigal:002006	CDS	106	198	.	+	0	ID=ANNDHMIN_747613;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747613;product=hypothetical protein
+c_000000395028	Prodigal:002006	CDS	268	1050	.	+	0	ID=ANNDHMIN_747614;eC_number=7.5.2.-;Name=frcA_70;db_xref=COG:COG1129;gene=frcA_70;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9F9B0;locus_tag=ANNDHMIN_747614;product=Fructose import ATP-binding protein FrcA
+c_000000395029	Prodigal:002006	CDS	608	1030	.	-	0	ID=ANNDHMIN_747615;eC_number=1.2.1.-;Name=phnY_15;gene=phnY_15;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q92UV7;locus_tag=ANNDHMIN_747615;product=Phosphonoacetaldehyde dehydrogenase
+c_000000395030	Prodigal:002006	CDS	7	531	.	+	0	ID=ANNDHMIN_747616;Name=crp_94;db_xref=COG:COG0664;gene=crp_94;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WMH3;locus_tag=ANNDHMIN_747616;product=CRP-like cAMP-activated global transcriptional regulator
+c_000000395030	Prodigal:002006	CDS	553	783	.	-	0	ID=ANNDHMIN_747617;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747617;product=hypothetical protein
+c_000000395030	Prodigal:002006	CDS	885	1301	.	+	0	ID=ANNDHMIN_747618;eC_number=1.14.13.-;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:B5M9L6;locus_tag=ANNDHMIN_747618;product=Putative epoxidase LasC
+c_000000395030	Prodigal:002006	CDS	1454	1795	.	-	0	ID=ANNDHMIN_747619;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747619;product=hypothetical protein
+c_000000395031	Prodigal:002006	CDS	73	1137	.	+	0	ID=ANNDHMIN_747620;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747620;product=hypothetical protein
+c_000000395032	Prodigal:002006	CDS	448	960	.	-	0	ID=ANNDHMIN_747621;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747621;product=hypothetical protein
+c_000000395033	Prodigal:002006	CDS	9	503	.	+	0	ID=ANNDHMIN_747622;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747622;product=hypothetical protein
+c_000000395034	Prodigal:002006	CDS	134	1063	.	+	0	ID=ANNDHMIN_747623;Name=btuB_43;db_xref=COG:COG4206;gene=btuB_43;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P06129;locus_tag=ANNDHMIN_747623;product=Vitamin B12 transporter BtuB
+c_000000395034	Prodigal:002006	CDS	1137	1472	.	-	0	ID=ANNDHMIN_747624;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747624;product=hypothetical protein
+c_000000395035	Prodigal:002006	CDS	650	979	.	-	0	ID=ANNDHMIN_747625;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747625;product=hypothetical protein
+c_000000395036	Prodigal:002006	CDS	25	1335	.	+	0	ID=ANNDHMIN_747626;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:ISfinder:ISGur11;locus_tag=ANNDHMIN_747626;product=IS481 family transposase ISGur11
+c_000000395037	Prodigal:002006	CDS	20	949	.	-	0	ID=ANNDHMIN_747627;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747627;product=hypothetical protein
+c_000000395037	Prodigal:002006	CDS	958	1095	.	-	0	ID=ANNDHMIN_747628;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747628;product=hypothetical protein
+c_000000395038	Prodigal:002006	CDS	12	425	.	+	0	ID=ANNDHMIN_747629;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747629;product=hypothetical protein
+c_000000395039	Prodigal:002006	CDS	26	769	.	+	0	ID=ANNDHMIN_747630;Name=dppB_267;db_xref=COG:COG0601;gene=dppB_267;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AEF8;locus_tag=ANNDHMIN_747630;product=Dipeptide transport system permease protein DppB
+c_000000395039	Prodigal:002006	CDS	769	1608	.	+	0	ID=ANNDHMIN_747631;Name=gsiD_263;db_xref=COG:COG1173;gene=gsiD_263;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P75799;locus_tag=ANNDHMIN_747631;product=Glutathione transport system permease protein GsiD
+c_000000395040	Prodigal:002006	CDS	142	366	.	+	0	ID=ANNDHMIN_747632;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747632;product=hypothetical protein
+c_000000395040	Prodigal:002006	CDS	372	602	.	-	0	ID=ANNDHMIN_747633;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747633;product=hypothetical protein
+c_000000395040	Prodigal:002006	CDS	896	1528	.	+	0	ID=ANNDHMIN_747634;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747634;product=hypothetical protein
+c_000000395041	Prodigal:002006	CDS	236	730	.	-	0	ID=ANNDHMIN_747635;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747635;product=hypothetical protein
+c_000000395041	Prodigal:002006	CDS	709	1254	.	-	0	ID=ANNDHMIN_747636;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747636;product=hypothetical protein
+c_000000395042	Prodigal:002006	CDS	16	294	.	+	0	ID=ANNDHMIN_747637;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747637;product=hypothetical protein
+c_000000395042	Prodigal:002006	CDS	339	563	.	-	0	ID=ANNDHMIN_747638;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747638;product=hypothetical protein
+c_000000395043	Prodigal:002006	CDS	123	683	.	+	0	ID=ANNDHMIN_747639;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747639;product=hypothetical protein
+c_000000395044	Prodigal:002006	CDS	171	1001	.	-	0	ID=ANNDHMIN_747640;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747640;product=hypothetical protein
+c_000000395045	Prodigal:002006	CDS	154	378	.	-	0	ID=ANNDHMIN_747641;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747641;product=hypothetical protein
+c_000000395045	Prodigal:002006	CDS	385	810	.	-	0	ID=ANNDHMIN_747642;eC_number=2.7.4.6;Name=ndk_83;db_xref=COG:COG0105;gene=ndk_83;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9PIG7;locus_tag=ANNDHMIN_747642;product=Nucleoside diphosphate kinase
+c_000000395045	Prodigal:002006	CDS	1170	1355	.	+	0	ID=ANNDHMIN_747643;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747643;product=hypothetical protein
+c_000000395046	Prodigal:002006	CDS	53	748	.	+	0	ID=ANNDHMIN_747644;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747644;product=hypothetical protein
+c_000000395046	Prodigal:002006	CDS	712	1140	.	-	0	ID=ANNDHMIN_747645;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747645;product=hypothetical protein
+c_000000395047	Prodigal:002006	CDS	61	987	.	-	0	ID=ANNDHMIN_747646;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747646;product=hypothetical protein
+c_000000395048	Prodigal:002006	CDS	89	322	.	+	0	ID=ANNDHMIN_747647;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747647;product=hypothetical protein
+c_000000395048	Prodigal:002006	CDS	635	982	.	+	0	ID=ANNDHMIN_747648;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747648;product=hypothetical protein
+c_000000395049	Prodigal:002006	CDS	106	264	.	+	0	ID=ANNDHMIN_747649;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747649;product=hypothetical protein
+c_000000395049	Prodigal:002006	CDS	428	916	.	-	0	ID=ANNDHMIN_747650;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747650;product=hypothetical protein
+c_000000395049	Prodigal:002006	CDS	1033	1284	.	-	0	ID=ANNDHMIN_747651;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747651;product=hypothetical protein
+c_000000395050	Prodigal:002006	CDS	21	794	.	+	0	ID=ANNDHMIN_747652;eC_number=4.2.1.33;Name=leuC1_28;db_xref=COG:COG0065;gene=leuC1_28;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P15717;locus_tag=ANNDHMIN_747652;product=3-isopropylmalate dehydratase large subunit 1
+c_000000395051	Prodigal:002006	CDS	38	1102	.	-	0	ID=ANNDHMIN_747653;db_xref=COG:COG3385;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:ISfinder:ISLpn9;locus_tag=ANNDHMIN_747653;product=IS4 family transposase ISLpn9
+c_000000395052	Prodigal:002006	CDS	14	127	.	-	0	ID=ANNDHMIN_747654;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747654;product=hypothetical protein
+c_000000395052	Prodigal:002006	CDS	507	1406	.	+	0	ID=ANNDHMIN_747655;eC_number=1.14.11.-;Name=tfdA_111;gene=tfdA_111;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P10088;locus_tag=ANNDHMIN_747655;product=Alpha-ketoglutarate-dependent 2%2C4-dichlorophenoxyacetate dioxygenase
+c_000000395052	Prodigal:002006	CDS	1474	1758	.	-	0	ID=ANNDHMIN_747656;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747656;product=hypothetical protein
+c_000000395052	Prodigal:002006	CDS	1897	2520	.	-	0	ID=ANNDHMIN_747657;eC_number=3.6.5.-;Name=lepA_85;db_xref=COG:COG0481;gene=lepA_85;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O67618;locus_tag=ANNDHMIN_747657;product=Elongation factor 4
+c_000000395053	Prodigal:002006	CDS	8	292	.	+	0	ID=ANNDHMIN_747658;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747658;product=hypothetical protein
+c_000000395053	Prodigal:002006	CDS	367	1080	.	-	0	ID=ANNDHMIN_747659;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747659;product=hypothetical protein
+c_000000395054	Prodigal:002006	CDS	336	914	.	+	0	ID=ANNDHMIN_747660;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747660;product=hypothetical protein
+c_000000395055	Prodigal:002006	CDS	305	1090	.	-	0	ID=ANNDHMIN_747661;eC_number=2.1.2.11;Name=panB_116;gene=panB_116;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P65656;locus_tag=ANNDHMIN_747661;product=3-methyl-2-oxobutanoate hydroxymethyltransferase
+c_000000395057	Prodigal:002006	CDS	113	1237	.	-	0	ID=ANNDHMIN_747662;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747662;product=hypothetical protein
+c_000000395058	Prodigal:002006	CDS	143	991	.	-	0	ID=ANNDHMIN_747663;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747663;product=hypothetical protein
+c_000000395059	Prodigal:002006	CDS	188	376	.	+	0	ID=ANNDHMIN_747664;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747664;product=hypothetical protein
+c_000000395059	Prodigal:002006	CDS	593	859	.	+	0	ID=ANNDHMIN_747665;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747665;product=hypothetical protein
+c_000000395060	Prodigal:002006	CDS	47	991	.	+	0	ID=ANNDHMIN_747666;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747666;product=hypothetical protein
+c_000000395060	Prodigal:002006	CDS	1007	1414	.	+	0	ID=ANNDHMIN_747667;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747667;product=hypothetical protein
+c_000000395062	Prodigal:002006	CDS	729	1319	.	-	0	ID=ANNDHMIN_747668;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747668;product=hypothetical protein
+c_000000395063	Prodigal:002006	CDS	582	851	.	-	0	ID=ANNDHMIN_747669;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747669;product=hypothetical protein
+c_000000395063	Prodigal:002006	CDS	1090	2061	.	-	0	ID=ANNDHMIN_747670;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747670;product=hypothetical protein
+c_000000395064	Prodigal:002006	CDS	8	919	.	+	0	ID=ANNDHMIN_747671;eC_number=4.3.1.3;Name=hutH_63;db_xref=COG:COG2986;gene=hutH_63;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P10944;locus_tag=ANNDHMIN_747671;product=Histidine ammonia-lyase
+c_000000395065	Prodigal:002006	CDS	54	770	.	+	0	ID=ANNDHMIN_747672;eC_number=1.1.1.47;Name=gdh_68;db_xref=COG:COG1028;gene=gdh_68;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P12310;locus_tag=ANNDHMIN_747672;product=Glucose 1-dehydrogenase
+c_000000395065	Prodigal:002006	CDS	764	1402	.	-	0	ID=ANNDHMIN_747673;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747673;product=hypothetical protein
+c_000000395066	Prodigal:002006	CDS	127	1950	.	-	0	ID=ANNDHMIN_747674;eC_number=3.4.21.53;Name=lon_128;gene=lon_128;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q2YPX3;locus_tag=ANNDHMIN_747674;product=Lon protease
+c_000000395067	Prodigal:002006	CDS	669	896	.	-	0	ID=ANNDHMIN_747675;Name=glnM_36;db_xref=COG:COG0765;gene=glnM_36;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O34671;locus_tag=ANNDHMIN_747675;product=putative glutamine ABC transporter permease protein GlnM
+c_000000395068	Prodigal:002006	CDS	92	934	.	-	0	ID=ANNDHMIN_747676;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747676;product=hypothetical protein
+c_000000395068	Prodigal:002006	CDS	980	1585	.	-	0	ID=ANNDHMIN_747677;Name=emrB_121;gene=emrB_121;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AEJ0;locus_tag=ANNDHMIN_747677;product=Multidrug export protein EmrB
+c_000000395069	Prodigal:002006	CDS	70	837	.	+	0	ID=ANNDHMIN_747678;eC_number=4.2.1.149;Name=caiD_111;gene=caiD_111;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01051;locus_tag=ANNDHMIN_747678;product=Carnitinyl-CoA dehydratase
+c_000000395069	Prodigal:002006	CDS	850	1044	.	-	0	ID=ANNDHMIN_747679;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747679;product=hypothetical protein
+c_000000395070	Prodigal:002006	CDS	13	309	.	+	0	ID=ANNDHMIN_747680;eC_number=3.5.99.10;Name=ridA_26;db_xref=COG:COG0251;gene=ridA_26;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q7CP78;locus_tag=ANNDHMIN_747680;product=2-iminobutanoate/2-iminopropanoate deaminase
+c_000000395070	Prodigal:002006	CDS	332	1207	.	-	0	ID=ANNDHMIN_747681;Name=dctM_197;db_xref=COG:COG1593;gene=dctM_197;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9HU16;locus_tag=ANNDHMIN_747681;product=C4-dicarboxylate TRAP transporter large permease protein DctM
+c_000000395071	Aragorn:001002	tRNA	1040	1115	.	-	.	ID=ANNDHMIN_747682;inference=COORDINATES:profile:Aragorn:001002;locus_tag=ANNDHMIN_747682;product=tRNA-Ala(ggc)
+c_000000395071	Prodigal:002006	CDS	1228	1455	.	-	0	ID=ANNDHMIN_747683;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747683;product=hypothetical protein
+c_000000395072	Prodigal:002006	CDS	65	289	.	+	0	ID=ANNDHMIN_747684;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747684;product=hypothetical protein
+c_000000395072	Prodigal:002006	CDS	299	676	.	-	0	ID=ANNDHMIN_747685;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747685;product=hypothetical protein
+c_000000395072	Prodigal:002006	CDS	707	1231	.	-	0	ID=ANNDHMIN_747686;Name=livF_1080;db_xref=COG:COG0410;gene=livF_1080;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P22731;locus_tag=ANNDHMIN_747686;product=High-affinity branched-chain amino acid transport ATP-binding protein LivF
+c_000000395074	Prodigal:002006	CDS	165	917	.	+	0	ID=ANNDHMIN_747687;Name=dhbF_16;db_xref=COG:COG1020;gene=dhbF_16;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P45745;locus_tag=ANNDHMIN_747687;product=Dimodular nonribosomal peptide synthase
+c_000000395075	Prodigal:002006	CDS	106	1026	.	+	0	ID=ANNDHMIN_747688;eC_number=2.7.1.-;Name=ydjH_20;db_xref=COG:COG0524;gene=ydjH_20;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P77493;locus_tag=ANNDHMIN_747688;product=putative sugar kinase YdjH
+c_000000395076	Prodigal:002006	CDS	148	798	.	+	0	ID=ANNDHMIN_747689;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747689;product=hypothetical protein
+c_000000395076	Prodigal:002006	CDS	921	1382	.	+	0	ID=ANNDHMIN_747690;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747690;product=hypothetical protein
+c_000000395077	Prodigal:002006	CDS	870	983	.	-	0	ID=ANNDHMIN_747691;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747691;product=hypothetical protein
+c_000000395078	Prodigal:002006	CDS	7	993	.	-	0	ID=ANNDHMIN_747692;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747692;product=hypothetical protein
+c_000000395079	Prodigal:002006	CDS	69	977	.	+	0	ID=ANNDHMIN_747693;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747693;product=hypothetical protein
+c_000000395079	Prodigal:002006	CDS	917	1405	.	-	0	ID=ANNDHMIN_747694;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747694;product=hypothetical protein
+c_000000395080	Prodigal:002006	CDS	231	1013	.	+	0	ID=ANNDHMIN_747695;Name=nanR_53;db_xref=COG:COG2186;gene=nanR_53;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A8W0;locus_tag=ANNDHMIN_747695;product=HTH-type transcriptional repressor NanR
+c_000000395081	Prodigal:002006	CDS	4	633	.	+	0	ID=ANNDHMIN_747696;Name=livH_886;db_xref=COG:COG0559;gene=livH_886;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AEX7;locus_tag=ANNDHMIN_747696;product=High-affinity branched-chain amino acid transport system permease protein LivH
+c_000000395081	Prodigal:002006	CDS	630	1583	.	+	0	ID=ANNDHMIN_747697;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747697;product=hypothetical protein
+c_000000395082	Prodigal:002006	CDS	40	279	.	-	0	ID=ANNDHMIN_747698;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747698;product=hypothetical protein
+c_000000395082	Prodigal:002006	CDS	314	1225	.	-	0	ID=ANNDHMIN_747699;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747699;product=hypothetical protein
+c_000000395082	Prodigal:002006	CDS	1327	1464	.	-	0	ID=ANNDHMIN_747700;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747700;product=hypothetical protein
+c_000000395082	Prodigal:002006	CDS	1615	1908	.	+	0	ID=ANNDHMIN_747701;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747701;product=hypothetical protein
+c_000000395082	Prodigal:002006	CDS	2035	2355	.	-	0	ID=ANNDHMIN_747702;eC_number=2.7.13.3;db_xref=COG:COG2202;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q2NCA3;locus_tag=ANNDHMIN_747702;product=Blue-light-activated histidine kinase 1
+c_000000395084	Prodigal:002006	CDS	334	1773	.	-	0	ID=ANNDHMIN_747703;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747703;product=hypothetical protein
+c_000000395085	Prodigal:002006	CDS	506	1045	.	-	0	ID=ANNDHMIN_747704;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747704;product=hypothetical protein
+c_000000395086	Prodigal:002006	CDS	320	898	.	+	0	ID=ANNDHMIN_747705;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747705;product=hypothetical protein
+c_000000395086	Prodigal:002006	CDS	984	1178	.	+	0	ID=ANNDHMIN_747706;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747706;product=hypothetical protein
+c_000000395087	Prodigal:002006	CDS	161	1261	.	-	0	ID=ANNDHMIN_747707;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747707;product=hypothetical protein
+c_000000395087	Prodigal:002006	CDS	1261	1395	.	-	0	ID=ANNDHMIN_747708;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747708;product=hypothetical protein
+c_000000395088	Prodigal:002006	CDS	60	488	.	+	0	ID=ANNDHMIN_747709;eC_number=7.1.1.-;Name=nuoH_82;db_xref=COG:COG1005;gene=nuoH_82;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WIX1;locus_tag=ANNDHMIN_747709;product=NADH-quinone oxidoreductase subunit H
+c_000000395088	Prodigal:002006	CDS	485	967	.	+	0	ID=ANNDHMIN_747710;eC_number=7.1.1.-;Name=nuoJ_63;db_xref=COG:COG0839;gene=nuoJ_63;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AFE0;locus_tag=ANNDHMIN_747710;product=NADH-quinone oxidoreductase subunit J
+c_000000395088	Prodigal:002006	CDS	964	1278	.	+	0	ID=ANNDHMIN_747711;eC_number=7.1.1.-;db_xref=COG:COG0713;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q56226;locus_tag=ANNDHMIN_747711;product=NADH-quinone oxidoreductase subunit 11
+c_000000395088	Prodigal:002006	CDS	1254	2051	.	-	0	ID=ANNDHMIN_747712;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747712;product=hypothetical protein
+c_000000395088	Prodigal:002006	CDS	2096	2302	.	-	0	ID=ANNDHMIN_747713;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747713;product=hypothetical protein
+c_000000395089	Prodigal:002006	CDS	138	812	.	+	0	ID=ANNDHMIN_747714;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747714;product=hypothetical protein
+c_000000395090	Prodigal:002006	CDS	74	217	.	+	0	ID=ANNDHMIN_747715;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747715;product=hypothetical protein
+c_000000395090	Prodigal:002006	CDS	458	1198	.	-	0	ID=ANNDHMIN_747716;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747716;product=hypothetical protein
+c_000000395092	Prodigal:002006	CDS	11	739	.	+	0	ID=ANNDHMIN_747717;eC_number=2.7.11.1;Name=pknD_291;gene=pknD_291;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01957;locus_tag=ANNDHMIN_747717;product=Serine/threonine-protein kinase PknD
+c_000000395092	Prodigal:002006	CDS	728	937	.	-	0	ID=ANNDHMIN_747718;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747718;product=hypothetical protein
+c_000000395092	Prodigal:002006	CDS	1199	1405	.	-	0	ID=ANNDHMIN_747719;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747719;product=hypothetical protein
+c_000000395093	Prodigal:002006	CDS	18	842	.	+	0	ID=ANNDHMIN_747720;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747720;product=hypothetical protein
+c_000000395094	Prodigal:002006	CDS	189	1202	.	-	0	ID=ANNDHMIN_747721;eC_number=5.3.1.13;Name=kdsD_59;db_xref=COG:COG0517;gene=kdsD_59;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9HVW0;locus_tag=ANNDHMIN_747721;product=Arabinose 5-phosphate isomerase KdsD
+c_000000395094	Prodigal:002006	CDS	1287	1889	.	-	0	ID=ANNDHMIN_747722;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747722;product=hypothetical protein
+c_000000395095	Aragorn:001002	tRNA	276	348	.	+	.	ID=ANNDHMIN_747723;inference=COORDINATES:profile:Aragorn:001002;locus_tag=ANNDHMIN_747723;product=tRNA-Ala(ggc)
+c_000000395096	Prodigal:002006	CDS	105	878	.	+	0	ID=ANNDHMIN_747724;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747724;product=hypothetical protein
+c_000000395096	Prodigal:002006	CDS	818	1489	.	-	0	ID=ANNDHMIN_747725;eC_number=1.3.99.-;db_xref=COG:COG1960;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WQG1;locus_tag=ANNDHMIN_747725;product=putative acyl-CoA dehydrogenase fadE25
+c_000000395097	Prodigal:002006	CDS	119	871	.	-	0	ID=ANNDHMIN_747726;db_xref=COG:COG2826;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:ISfinder:ISHar4;locus_tag=ANNDHMIN_747726;product=IS30 family transposase ISHar4
+c_000000395097	Prodigal:002006	CDS	902	1270	.	-	0	ID=ANNDHMIN_747727;db_xref=COG:COG2826;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:ISfinder:ISHar4;locus_tag=ANNDHMIN_747727;product=IS30 family transposase ISHar4
+c_000000395098	Prodigal:002006	CDS	109	669	.	+	0	ID=ANNDHMIN_747728;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747728;product=hypothetical protein
+c_000000395098	Prodigal:002006	CDS	637	1695	.	-	0	ID=ANNDHMIN_747729;eC_number=1.2.1.11;Name=asd_78;db_xref=COG:COG0136;gene=asd_78;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q04797;locus_tag=ANNDHMIN_747729;product=Aspartate-semialdehyde dehydrogenase
+c_000000395098	Prodigal:002006	CDS	1750	2199	.	+	0	ID=ANNDHMIN_747730;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747730;product=hypothetical protein
+c_000000395099	Prodigal:002006	CDS	448	1491	.	+	0	ID=ANNDHMIN_747731;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747731;product=hypothetical protein
+c_000000395100	Prodigal:002006	CDS	535	939	.	-	0	ID=ANNDHMIN_747732;eC_number=3.1.-.-;db_xref=COG:COG0816;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WGV7;locus_tag=ANNDHMIN_747732;product=Putative pre-16S rRNA nuclease
+c_000000395101	Prodigal:002006	CDS	290	865	.	+	0	ID=ANNDHMIN_747733;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747733;product=hypothetical protein
+c_000000395102	Prodigal:002006	CDS	246	524	.	-	0	ID=ANNDHMIN_747734;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747734;product=hypothetical protein
+c_000000395102	Prodigal:002006	CDS	521	997	.	-	0	ID=ANNDHMIN_747735;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747735;product=hypothetical protein
+c_000000395103	Prodigal:002006	CDS	510	1031	.	+	0	ID=ANNDHMIN_747736;eC_number=2.3.1.-;db_xref=COG:COG0454;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A0R3F9;locus_tag=ANNDHMIN_747736;product=Acetyltransferase Pat
+c_000000395104	Prodigal:002006	CDS	40	828	.	-	0	ID=ANNDHMIN_747737;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747737;product=hypothetical protein
+c_000000395105	Prodigal:002006	CDS	285	1145	.	+	0	ID=ANNDHMIN_747738;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747738;product=hypothetical protein
+c_000000395106	Prodigal:002006	CDS	433	1122	.	-	0	ID=ANNDHMIN_747739;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747739;product=hypothetical protein
+c_000000395107	Prodigal:002006	CDS	509	1357	.	+	0	ID=ANNDHMIN_747740;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747740;product=hypothetical protein
+c_000000395108	Prodigal:002006	CDS	295	1269	.	-	0	ID=ANNDHMIN_747741;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:B3EWP1;locus_tag=ANNDHMIN_747741;note=UPF0065 protein in clcB-clcD intergenic region;product=hypothetical protein
+c_000000395109	Prodigal:002006	CDS	10	381	.	+	0	ID=ANNDHMIN_747742;db_xref=COG:COG1136;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WQK1;locus_tag=ANNDHMIN_747742;product=putative ABC transporter ATP-binding protein
+c_000000395109	Prodigal:002006	CDS	798	992	.	-	0	ID=ANNDHMIN_747743;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747743;product=hypothetical protein
+c_000000395110	Prodigal:002006	CDS	281	481	.	-	0	ID=ANNDHMIN_747744;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747744;product=hypothetical protein
+c_000000395110	Prodigal:002006	CDS	698	1036	.	-	0	ID=ANNDHMIN_747745;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747745;product=hypothetical protein
+c_000000395111	Prodigal:002006	CDS	52	462	.	+	0	ID=ANNDHMIN_747746;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747746;product=hypothetical protein
+c_000000395111	Prodigal:002006	CDS	647	1015	.	+	0	ID=ANNDHMIN_747747;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747747;product=hypothetical protein
+c_000000395112	Prodigal:002006	CDS	36	1058	.	+	0	ID=ANNDHMIN_747748;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747748;product=hypothetical protein
+c_000000395114	Prodigal:002006	CDS	976	1134	.	-	0	ID=ANNDHMIN_747749;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747749;product=hypothetical protein
+c_000000395115	Prodigal:002006	CDS	9	788	.	-	0	ID=ANNDHMIN_747750;Name=btsR_37;db_xref=COG:COG3279;gene=btsR_37;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AFT5;locus_tag=ANNDHMIN_747750;product=Transcriptional regulatory protein BtsR
+c_000000395115	Prodigal:002006	CDS	795	932	.	-	0	ID=ANNDHMIN_747751;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747751;product=hypothetical protein
+c_000000395116	Prodigal:002006	CDS	592	1314	.	-	0	ID=ANNDHMIN_747752;eC_number=2.5.1.54;Name=aroF_57;db_xref=COG:COG2876;gene=aroF_57;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9WYH8;locus_tag=ANNDHMIN_747752;product=Phospho-2-dehydro-3-deoxyheptonate aldolase
+c_000000395117	Prodigal:002006	CDS	1079	1201	.	+	0	ID=ANNDHMIN_747753;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747753;product=hypothetical protein
+c_000000395117	Prodigal:002006	CDS	1563	1871	.	-	0	ID=ANNDHMIN_747754;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747754;product=hypothetical protein
+c_000000395118	Prodigal:002006	CDS	30	968	.	+	0	ID=ANNDHMIN_747755;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747755;product=hypothetical protein
+c_000000395119	Prodigal:002006	CDS	142	699	.	+	0	ID=ANNDHMIN_747756;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747756;product=hypothetical protein
+c_000000395120	Prodigal:002006	CDS	81	887	.	+	0	ID=ANNDHMIN_747757;eC_number=1.2.1.10;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q53WH9;locus_tag=ANNDHMIN_747757;product=Acetaldehyde dehydrogenase
+c_000000395121	Prodigal:002006	CDS	33	149	.	+	0	ID=ANNDHMIN_747758;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747758;product=hypothetical protein
+c_000000395121	Prodigal:002006	CDS	198	746	.	-	0	ID=ANNDHMIN_747759;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747759;product=hypothetical protein
+c_000000395121	Prodigal:002006	CDS	788	1822	.	-	0	ID=ANNDHMIN_747760;eC_number=2.3.1.239;Name=pikAII_26;gene=pikAII_26;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9ZGI4;locus_tag=ANNDHMIN_747760;product=Narbonolide/10-deoxymethynolide synthase PikA2%2C modules 3 and 4
+c_000000395121	Prodigal:002006	CDS	1837	2928	.	-	0	ID=ANNDHMIN_747761;eC_number=1.1.1.95;Name=serA_88;db_xref=COG:COG0111;gene=serA_88;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WNX3;locus_tag=ANNDHMIN_747761;product=D-3-phosphoglycerate dehydrogenase
+c_000000395122	Prodigal:002006	CDS	55	1170	.	-	0	ID=ANNDHMIN_747762;eC_number=1.1.1.38;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P16468;locus_tag=ANNDHMIN_747762;product=NAD-dependent malic enzyme
+c_000000395123	Prodigal:002006	CDS	69	218	.	+	0	ID=ANNDHMIN_747763;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747763;product=hypothetical protein
+c_000000395123	Prodigal:002006	CDS	225	359	.	-	0	ID=ANNDHMIN_747764;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747764;product=hypothetical protein
+c_000000395123	Prodigal:002006	CDS	397	1359	.	+	0	ID=ANNDHMIN_747765;eC_number=6.1.1.2;Name=trpS_89;db_xref=COG:COG0180;gene=trpS_89;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9PIB4;locus_tag=ANNDHMIN_747765;product=Tryptophan--tRNA ligase
+c_000000395124	Prodigal:002006	CDS	143	256	.	-	0	ID=ANNDHMIN_747766;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747766;product=hypothetical protein
+c_000000395124	Prodigal:002006	CDS	624	956	.	-	0	ID=ANNDHMIN_747767;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747767;product=hypothetical protein
+c_000000395125	Prodigal:002006	CDS	358	687	.	+	0	ID=ANNDHMIN_747768;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747768;product=hypothetical protein
+c_000000395125	Prodigal:002006	CDS	690	1262	.	+	0	ID=ANNDHMIN_747769;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747769;product=hypothetical protein
+c_000000395126	Prodigal:002006	CDS	105	401	.	+	0	ID=ANNDHMIN_747770;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747770;product=hypothetical protein
+c_000000395128	Prodigal:002006	CDS	582	713	.	+	0	ID=ANNDHMIN_747771;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747771;product=hypothetical protein
+c_000000395129	Prodigal:002006	CDS	60	1931	.	-	0	ID=ANNDHMIN_747772;Name=bepG_125;gene=bepG_125;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8FWV9;locus_tag=ANNDHMIN_747772;product=Efflux pump membrane transporter BepG
+c_000000395130	Prodigal:002006	CDS	515	1147	.	+	0	ID=ANNDHMIN_747773;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747773;product=hypothetical protein
+c_000000395130	Prodigal:002006	CDS	1170	1373	.	-	0	ID=ANNDHMIN_747774;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747774;product=hypothetical protein
+c_000000395131	Prodigal:002006	CDS	41	439	.	-	0	ID=ANNDHMIN_747775;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747775;product=hypothetical protein
+c_000000395132	Prodigal:002006	CDS	243	1490	.	-	0	ID=ANNDHMIN_747776;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747776;product=hypothetical protein
+c_000000395133	Prodigal:002006	CDS	562	846	.	-	0	ID=ANNDHMIN_747777;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747777;product=hypothetical protein
+c_000000395134	Prodigal:002006	CDS	281	1018	.	-	0	ID=ANNDHMIN_747778;eC_number=7.1.1.7;Name=cydB_57;db_xref=COG:COG1294;gene=cydB_57;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0ABK2;locus_tag=ANNDHMIN_747778;product=Cytochrome bd-I ubiquinol oxidase subunit 2
+c_000000395135	Prodigal:002006	CDS	703	1197	.	+	0	ID=ANNDHMIN_747779;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747779;product=hypothetical protein
+c_000000395136	Prodigal:002006	CDS	567	749	.	+	0	ID=ANNDHMIN_747780;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747780;product=hypothetical protein
+c_000000395136	Prodigal:002006	CDS	1095	1349	.	+	0	ID=ANNDHMIN_747781;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747781;product=hypothetical protein
+c_000000395137	Prodigal:002006	CDS	602	1450	.	-	0	ID=ANNDHMIN_747782;Name=ftsY_83;db_xref=COG:COG0552;gene=ftsY_83;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P51835;locus_tag=ANNDHMIN_747782;product=Signal recognition particle receptor FtsY
+c_000000395137	Prodigal:002006	CDS	1463	1942	.	-	0	ID=ANNDHMIN_747783;Name=nusB_94;gene=nusB_94;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00073;locus_tag=ANNDHMIN_747783;product=Transcription antitermination protein NusB
+c_000000395138	Prodigal:002006	CDS	216	461	.	+	0	ID=ANNDHMIN_747784;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747784;product=hypothetical protein
+c_000000395138	Prodigal:002006	CDS	518	775	.	+	0	ID=ANNDHMIN_747785;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747785;product=hypothetical protein
+c_000000395138	Prodigal:002006	CDS	733	1008	.	-	0	ID=ANNDHMIN_747786;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747786;product=hypothetical protein
+c_000000395139	Prodigal:002006	CDS	152	301	.	+	0	ID=ANNDHMIN_747787;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747787;product=hypothetical protein
+c_000000395139	Prodigal:002006	CDS	936	1244	.	-	0	ID=ANNDHMIN_747788;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747788;product=hypothetical protein
+c_000000395140	Prodigal:002006	CDS	58	288	.	+	0	ID=ANNDHMIN_747789;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747789;product=hypothetical protein
+c_000000395140	Prodigal:002006	CDS	189	587	.	-	0	ID=ANNDHMIN_747790;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747790;product=hypothetical protein
+c_000000395141	Prodigal:002006	CDS	313	738	.	+	0	ID=ANNDHMIN_747791;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747791;product=hypothetical protein
+c_000000395141	Prodigal:002006	CDS	863	1909	.	+	0	ID=ANNDHMIN_747792;eC_number=1.1.1.369;Name=iolG_249;gene=iolG_249;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01671;locus_tag=ANNDHMIN_747792;product=Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+c_000000395141	Prodigal:002006	CDS	1850	2080	.	-	0	ID=ANNDHMIN_747793;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747793;product=hypothetical protein
+c_000000395142	Prodigal:002006	CDS	416	691	.	-	0	ID=ANNDHMIN_747794;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747794;product=hypothetical protein
+c_000000395143	Prodigal:002006	CDS	27	578	.	+	0	ID=ANNDHMIN_747795;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747795;product=hypothetical protein
+c_000000395143	Prodigal:002006	CDS	927	1229	.	-	0	ID=ANNDHMIN_747796;db_xref=COG:COG2321;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WL85;locus_tag=ANNDHMIN_747796;product=putative protein
+c_000000395144	Prodigal:002006	CDS	75	506	.	-	0	ID=ANNDHMIN_747797;eC_number=4.6.1.1;Name=cyaA_55;db_xref=COG:COG2114;gene=cyaA_55;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P40137;locus_tag=ANNDHMIN_747797;product=Adenylate cyclase 1
+c_000000395144	Prodigal:002006	CDS	811	948	.	-	0	ID=ANNDHMIN_747798;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747798;product=hypothetical protein
+c_000000395145	Prodigal:002006	CDS	431	1084	.	-	0	ID=ANNDHMIN_747799;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747799;product=hypothetical protein
+c_000000395146	Prodigal:002006	CDS	815	1009	.	-	0	ID=ANNDHMIN_747800;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747800;product=hypothetical protein
+c_000000395147	Prodigal:002006	CDS	29	865	.	+	0	ID=ANNDHMIN_747801;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747801;product=hypothetical protein
+c_000000395147	Prodigal:002006	CDS	787	1044	.	-	0	ID=ANNDHMIN_747802;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747802;product=hypothetical protein
+c_000000395148	Prodigal:002006	CDS	132	731	.	+	0	ID=ANNDHMIN_747803;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747803;product=hypothetical protein
+c_000000395149	Prodigal:002006	CDS	86	577	.	+	0	ID=ANNDHMIN_747804;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747804;product=hypothetical protein
+c_000000395149	Prodigal:002006	CDS	758	973	.	+	0	ID=ANNDHMIN_747805;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747805;product=hypothetical protein
+c_000000395150	Prodigal:002006	CDS	14	199	.	+	0	ID=ANNDHMIN_747806;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747806;product=hypothetical protein
+c_000000395150	Prodigal:002006	CDS	243	1049	.	+	0	ID=ANNDHMIN_747807;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747807;product=hypothetical protein
+c_000000395151	Prodigal:002006	CDS	26	880	.	+	0	ID=ANNDHMIN_747808;eC_number=1.1.1.60;Name=garR_144;db_xref=COG:COG2084;gene=garR_144;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0ABQ2;locus_tag=ANNDHMIN_747808;product=2-hydroxy-3-oxopropionate reductase
+c_000000395152	Prodigal:002006	CDS	415	1137	.	-	0	ID=ANNDHMIN_747809;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747809;product=hypothetical protein
+c_000000395153	Prodigal:002006	CDS	331	615	.	-	0	ID=ANNDHMIN_747810;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747810;product=hypothetical protein
+c_000000395153	Prodigal:002006	CDS	587	847	.	-	0	ID=ANNDHMIN_747811;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747811;product=hypothetical protein
+c_000000395154	Prodigal:002006	CDS	214	390	.	+	0	ID=ANNDHMIN_747812;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747812;product=hypothetical protein
+c_000000395155	Prodigal:002006	CDS	395	616	.	+	0	ID=ANNDHMIN_747813;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747813;product=hypothetical protein
+c_000000395155	Prodigal:002006	CDS	617	1069	.	-	0	ID=ANNDHMIN_747814;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747814;product=hypothetical protein
+c_000000395156	Prodigal:002006	CDS	624	1325	.	-	0	ID=ANNDHMIN_747815;Name=baeR_37;db_xref=COG:COG0745;gene=baeR_37;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P69228;locus_tag=ANNDHMIN_747815;product=Transcriptional regulatory protein BaeR
+c_000000395157	Prodigal:002006	CDS	87	344	.	-	0	ID=ANNDHMIN_747816;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747816;product=hypothetical protein
+c_000000395157	Prodigal:002006	CDS	480	761	.	-	0	ID=ANNDHMIN_747817;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747817;product=hypothetical protein
+c_000000395157	Prodigal:002006	CDS	765	1046	.	-	0	ID=ANNDHMIN_747818;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747818;product=hypothetical protein
+c_000000395158	Prodigal:002006	CDS	766	1005	.	+	0	ID=ANNDHMIN_747819;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747819;product=hypothetical protein
+c_000000395159	Prodigal:002006	CDS	183	965	.	-	0	ID=ANNDHMIN_747820;eC_number=1.5.3.-;Name=mcrA_80;gene=mcrA_80;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P43485;locus_tag=ANNDHMIN_747820;product=Mitomycin radical oxidase
+c_000000395160	Prodigal:002006	CDS	65	772	.	-	0	ID=ANNDHMIN_747821;eC_number=3.5.1.-;Name=bshB1_29;db_xref=COG:COG2120;gene=bshB1_29;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q81ST8;locus_tag=ANNDHMIN_747821;product=N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+c_000000395160	Prodigal:002006	CDS	769	1020	.	-	0	ID=ANNDHMIN_747822;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747822;product=hypothetical protein
+c_000000395161	Prodigal:002006	CDS	29	829	.	-	0	ID=ANNDHMIN_747823;Name=znuB_22;db_xref=COG:COG1108;gene=znuB_22;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O34610;locus_tag=ANNDHMIN_747823;product=High-affinity zinc uptake system membrane protein ZnuB
+c_000000395161	Prodigal:002006	CDS	822	1256	.	-	0	ID=ANNDHMIN_747824;eC_number=7.6.2.8;Name=btuD_881;gene=btuD_881;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01005;locus_tag=ANNDHMIN_747824;product=Vitamin B12 import ATP-binding protein BtuD
+c_000000395162	Prodigal:002006	CDS	371	1609	.	+	0	ID=ANNDHMIN_747825;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747825;product=hypothetical protein
+c_000000395162	Prodigal:002006	CDS	1730	2311	.	-	0	ID=ANNDHMIN_747826;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747826;product=hypothetical protein
+c_000000395162	Prodigal:002006	CDS	2648	3460	.	-	0	ID=ANNDHMIN_747827;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747827;product=hypothetical protein
+c_000000395163	Prodigal:002006	CDS	19	348	.	-	0	ID=ANNDHMIN_747828;Name=cutA_55;db_xref=COG:COG1324;gene=cutA_55;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q7SIA8;locus_tag=ANNDHMIN_747828;product=Divalent-cation tolerance protein CutA
+c_000000395163	Prodigal:002006	CDS	435	1082	.	-	0	ID=ANNDHMIN_747829;eC_number=2.8.1.13;Name=mnmA_84;db_xref=COG:COG0482;gene=mnmA_84;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P25745;locus_tag=ANNDHMIN_747829;product=tRNA-specific 2-thiouridylase MnmA
+c_000000395164	Prodigal:002006	CDS	56	796	.	-	0	ID=ANNDHMIN_747830;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747830;product=hypothetical protein
+c_000000395164	Prodigal:002006	CDS	822	1019	.	-	0	ID=ANNDHMIN_747831;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747831;product=hypothetical protein
+c_000000395165	Prodigal:002006	CDS	42	1397	.	-	0	ID=ANNDHMIN_747832;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747832;product=hypothetical protein
+c_000000395166	Prodigal:002006	CDS	518	1096	.	-	0	ID=ANNDHMIN_747833;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747833;product=hypothetical protein
+c_000000395167	Prodigal:002006	CDS	322	525	.	-	0	ID=ANNDHMIN_747834;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747834;product=hypothetical protein
+c_000000395167	Prodigal:002006	CDS	625	1140	.	-	0	ID=ANNDHMIN_747835;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747835;product=hypothetical protein
+c_000000395167	Aragorn:001002	tRNA	1263	1339	.	-	.	ID=ANNDHMIN_747836;inference=COORDINATES:profile:Aragorn:001002;locus_tag=ANNDHMIN_747836;product=tRNA-Arg(cct)
+c_000000395168	Prodigal:002006	CDS	258	1022	.	-	0	ID=ANNDHMIN_747837;eC_number=3.1.3.16;Name=stp_175;db_xref=COG:COG0631;gene=stp_175;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8Y678;locus_tag=ANNDHMIN_747837;product=Serine/threonine phosphatase stp
+c_000000395169	Prodigal:002006	CDS	135	509	.	+	0	ID=ANNDHMIN_747838;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747838;product=hypothetical protein
+c_000000395169	Prodigal:002006	CDS	575	1006	.	-	0	ID=ANNDHMIN_747839;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747839;product=hypothetical protein
+c_000000395170	Prodigal:002006	CDS	38	721	.	+	0	ID=ANNDHMIN_747840;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747840;product=hypothetical protein
+c_000000395170	Prodigal:002006	CDS	797	1096	.	-	0	ID=ANNDHMIN_747841;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747841;product=hypothetical protein
+c_000000395171	Prodigal:002006	CDS	21	488	.	+	0	ID=ANNDHMIN_747842;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747842;product=hypothetical protein
+c_000000395171	Prodigal:002006	CDS	652	1119	.	+	0	ID=ANNDHMIN_747843;Name=ssb_66;db_xref=COG:COG0629;gene=ssb_66;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q83EP4;locus_tag=ANNDHMIN_747843;product=Single-stranded DNA-binding protein
+c_000000395172	Prodigal:002006	CDS	148	468	.	+	0	ID=ANNDHMIN_747844;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747844;product=hypothetical protein
+c_000000395173	Prodigal:002006	CDS	122	676	.	+	0	ID=ANNDHMIN_747845;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747845;product=hypothetical protein
+c_000000395173	Prodigal:002006	CDS	1016	1369	.	+	0	ID=ANNDHMIN_747846;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747846;product=hypothetical protein
+c_000000395173	Prodigal:002006	CDS	1963	2760	.	-	0	ID=ANNDHMIN_747847;Name=esiB_48;gene=esiB_48;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A0A0H2VDN9;locus_tag=ANNDHMIN_747847;product=Secretory immunoglobulin A-binding protein EsiB
+c_000000395173	Prodigal:002006	CDS	2747	3433	.	-	0	ID=ANNDHMIN_747848;eC_number=2.9.1.1;Name=selA_54;db_xref=COG:COG1921;gene=selA_54;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A821;locus_tag=ANNDHMIN_747848;product=L-seryl-tRNA(Sec) selenium transferase
+c_000000395174	Prodigal:002006	CDS	467	1408	.	-	0	ID=ANNDHMIN_747849;eC_number=2.6.1.42;Name=ilvE_142;db_xref=COG:COG0115;gene=ilvE_142;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O86428;locus_tag=ANNDHMIN_747849;product=Branched-chain-amino-acid aminotransferase
+c_000000395175	Prodigal:002006	CDS	77	817	.	+	0	ID=ANNDHMIN_747850;Name=cinA_116;gene=cinA_116;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00226_A;locus_tag=ANNDHMIN_747850;product=Putative competence-damage inducible protein
+c_000000395175	Prodigal:002006	CDS	848	1372	.	+	0	ID=ANNDHMIN_747851;eC_number=2.4.2.22;Name=gpt_36;db_xref=COG:COG0503;gene=gpt_36;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8ZC05;locus_tag=ANNDHMIN_747851;product=Xanthine phosphoribosyltransferase
+c_000000395175	Prodigal:002006	CDS	1436	2068	.	+	0	ID=ANNDHMIN_747852;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747852;product=hypothetical protein
+c_000000395175	Prodigal:002006	CDS	2277	2579	.	-	0	ID=ANNDHMIN_747853;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747853;product=hypothetical protein
+c_000000395176	Prodigal:002006	CDS	240	410	.	+	0	ID=ANNDHMIN_747854;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747854;product=hypothetical protein
+c_000000395177	Prodigal:002006	CDS	161	823	.	+	0	ID=ANNDHMIN_747855;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747855;product=hypothetical protein
+c_000000395177	Prodigal:002006	CDS	867	1271	.	+	0	ID=ANNDHMIN_747856;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747856;product=hypothetical protein
+c_000000395178	Prodigal:002006	CDS	122	766	.	+	0	ID=ANNDHMIN_747857;eC_number=4.2.1.156;db_xref=COG:COG4948;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8ZL58;locus_tag=ANNDHMIN_747857;product=L-talarate/galactarate dehydratase
+c_000000395178	Prodigal:002006	CDS	847	1071	.	+	0	ID=ANNDHMIN_747858;eC_number=5.3.2.-;Name=pptA_9;gene=pptA_9;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00718;locus_tag=ANNDHMIN_747858;product=Tautomerase PptA
+c_000000395179	Prodigal:002006	CDS	622	1155	.	-	0	ID=ANNDHMIN_747859;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747859;product=hypothetical protein
+c_000000395180	Prodigal:002006	CDS	332	985	.	-	0	ID=ANNDHMIN_747860;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747860;product=hypothetical protein
+c_000000395181	Prodigal:002006	CDS	20	211	.	+	0	ID=ANNDHMIN_747861;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747861;product=hypothetical protein
+c_000000395181	Prodigal:002006	CDS	253	1218	.	+	0	ID=ANNDHMIN_747862;eC_number=2.1.1.199;Name=rsmH_86;db_xref=COG:COG0275;gene=rsmH_86;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q5SJD8;locus_tag=ANNDHMIN_747862;product=Ribosomal RNA small subunit methyltransferase H
+c_000000395182	Prodigal:002006	CDS	46	471	.	+	0	ID=ANNDHMIN_747863;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747863;product=hypothetical protein
+c_000000395182	Prodigal:002006	CDS	468	1526	.	+	0	ID=ANNDHMIN_747864;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747864;product=hypothetical protein
+c_000000395182	Prodigal:002006	CDS	1712	2422	.	+	0	ID=ANNDHMIN_747865;eC_number=3.1.26.4;Name=rnhB_89;db_xref=COG:COG0164;gene=rnhB_89;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O31744;locus_tag=ANNDHMIN_747865;product=Ribonuclease HII
+c_000000395182	Prodigal:002006	CDS	2765	2896	.	-	0	ID=ANNDHMIN_747866;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747866;product=hypothetical protein
+c_000000395183	Prodigal:002006	CDS	97	306	.	-	0	ID=ANNDHMIN_747867;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747867;product=hypothetical protein
+c_000000395183	Prodigal:002006	CDS	420	701	.	-	0	ID=ANNDHMIN_747868;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747868;product=hypothetical protein
+c_000000395183	Prodigal:002006	CDS	789	1121	.	-	0	ID=ANNDHMIN_747869;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747869;product=hypothetical protein
+c_000000395183	Prodigal:002006	CDS	1118	1684	.	-	0	ID=ANNDHMIN_747870;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747870;product=hypothetical protein
+c_000000395184	Prodigal:002006	CDS	1004	1132	.	-	0	ID=ANNDHMIN_747871;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747871;product=hypothetical protein
+c_000000395185	Prodigal:002006	CDS	4	1071	.	+	0	ID=ANNDHMIN_747872;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747872;product=hypothetical protein
+c_000000395186	Prodigal:002006	CDS	190	678	.	-	0	ID=ANNDHMIN_747873;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747873;product=hypothetical protein
+c_000000395186	Prodigal:002006	CDS	739	1338	.	-	0	ID=ANNDHMIN_747874;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747874;product=hypothetical protein
+c_000000395187	Prodigal:002006	CDS	226	525	.	+	0	ID=ANNDHMIN_747875;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747875;product=hypothetical protein
+c_000000395187	Prodigal:002006	CDS	520	1776	.	-	0	ID=ANNDHMIN_747876;Name=ampG_42;db_xref=COG:COG0477;gene=ampG_42;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AE16;locus_tag=ANNDHMIN_747876;product=Anhydromuropeptide permease
+c_000000395187	Prodigal:002006	CDS	1898	2101	.	-	0	ID=ANNDHMIN_747877;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747877;product=hypothetical protein
+c_000000395188	Prodigal:002006	CDS	105	1157	.	-	0	ID=ANNDHMIN_747878;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747878;product=hypothetical protein
+c_000000395188	Prodigal:002006	CDS	1186	2613	.	+	0	ID=ANNDHMIN_747879;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747879;product=hypothetical protein
+c_000000395189	Prodigal:002006	CDS	21	332	.	+	0	ID=ANNDHMIN_747880;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747880;product=hypothetical protein
+c_000000395189	Prodigal:002006	CDS	483	914	.	-	0	ID=ANNDHMIN_747881;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747881;product=hypothetical protein
+c_000000395191	Prodigal:002006	CDS	5	685	.	+	0	ID=ANNDHMIN_747882;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747882;product=hypothetical protein
+c_000000395192	Prodigal:002006	CDS	55	330	.	+	0	ID=ANNDHMIN_747883;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747883;product=hypothetical protein
+c_000000395192	Prodigal:002006	CDS	210	836	.	-	0	ID=ANNDHMIN_747884;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747884;product=hypothetical protein
+c_000000395193	Prodigal:002006	CDS	301	1089	.	-	0	ID=ANNDHMIN_747885;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747885;product=hypothetical protein
+c_000000395194	Prodigal:002006	CDS	52	690	.	+	0	ID=ANNDHMIN_747886;Name=hycE_19;db_xref=COG:COG3261;gene=hycE_19;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P16431;locus_tag=ANNDHMIN_747886;product=Formate hydrogenlyase subunit 5
+c_000000395195	Prodigal:002006	CDS	733	1263	.	-	0	ID=ANNDHMIN_747887;eC_number=4.2.1.59;Name=fabA_31;db_xref=COG:COG0764;gene=fabA_31;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A5F850;locus_tag=ANNDHMIN_747887;product=3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+c_000000395196	Prodigal:002006	CDS	78	527	.	+	0	ID=ANNDHMIN_747888;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747888;product=hypothetical protein
+c_000000395196	Prodigal:002006	CDS	855	1700	.	+	0	ID=ANNDHMIN_747889;eC_number=2.4.1.54;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:C5CBV8;locus_tag=ANNDHMIN_747889;product=Undecaprenyl-phosphate mannosyltransferase
+c_000000395196	Prodigal:002006	CDS	1697	3016	.	+	0	ID=ANNDHMIN_747890;eC_number=2.4.1.250;Name=mshA_668;gene=mshA_668;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01695;locus_tag=ANNDHMIN_747890;product=D-inositol-3-phosphate glycosyltransferase
+c_000000395196	Prodigal:002006	CDS	3033	4256	.	-	0	ID=ANNDHMIN_747891;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747891;product=hypothetical protein
+c_000000395196	Prodigal:002006	CDS	4502	5188	.	+	0	ID=ANNDHMIN_747892;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747892;product=hypothetical protein
+c_000000395197	Prodigal:002006	CDS	520	1056	.	-	0	ID=ANNDHMIN_747893;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747893;product=hypothetical protein
+c_000000395198	Prodigal:002006	CDS	298	594	.	-	0	ID=ANNDHMIN_747894;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747894;product=hypothetical protein
+c_000000395199	Prodigal:002006	CDS	442	615	.	+	0	ID=ANNDHMIN_747895;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747895;product=hypothetical protein
+c_000000395199	Prodigal:002006	CDS	880	1080	.	+	0	ID=ANNDHMIN_747896;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747896;product=hypothetical protein
+c_000000395200	Prodigal:002006	CDS	252	1253	.	-	0	ID=ANNDHMIN_747897;eC_number=2.7.13.3;Name=rcsC_614;gene=rcsC_614;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00979;locus_tag=ANNDHMIN_747897;product=Sensor histidine kinase RcsC
+c_000000395201	Prodigal:002006	CDS	25	183	.	+	0	ID=ANNDHMIN_747898;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747898;product=hypothetical protein
+c_000000395201	Prodigal:002006	CDS	266	880	.	-	0	ID=ANNDHMIN_747899;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747899;product=hypothetical protein
+c_000000395201	Prodigal:002006	CDS	1144	1434	.	+	0	ID=ANNDHMIN_747900;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747900;product=hypothetical protein
+c_000000395202	Prodigal:002006	CDS	121	546	.	+	0	ID=ANNDHMIN_747901;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747901;product=hypothetical protein
+c_000000395202	Prodigal:002006	CDS	472	657	.	-	0	ID=ANNDHMIN_747902;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747902;product=hypothetical protein
+c_000000395202	Prodigal:002006	CDS	797	1303	.	-	0	ID=ANNDHMIN_747903;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747903;product=hypothetical protein
+c_000000395203	Prodigal:002006	CDS	377	529	.	-	0	ID=ANNDHMIN_747904;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747904;product=hypothetical protein
+c_000000395204	Prodigal:002006	CDS	157	1302	.	+	0	ID=ANNDHMIN_747905;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747905;product=hypothetical protein
+c_000000395205	Prodigal:002006	CDS	87	1454	.	+	0	ID=ANNDHMIN_747906;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747906;product=hypothetical protein
+c_000000395205	Prodigal:002006	CDS	1524	3137	.	+	0	ID=ANNDHMIN_747907;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747907;product=hypothetical protein
+c_000000395206	Prodigal:002006	CDS	339	467	.	-	0	ID=ANNDHMIN_747908;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747908;product=hypothetical protein
+c_000000395206	Prodigal:002006	CDS	587	895	.	-	0	ID=ANNDHMIN_747909;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747909;product=hypothetical protein
+c_000000395208	Prodigal:002006	CDS	141	677	.	+	0	ID=ANNDHMIN_747910;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747910;product=hypothetical protein
+c_000000395208	Prodigal:002006	CDS	684	1466	.	+	0	ID=ANNDHMIN_747911;eC_number=3.6.3.-;Name=ssuB_191;db_xref=COG:COG1116;gene=ssuB_191;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P97027;locus_tag=ANNDHMIN_747911;product=Aliphatic sulfonates import ATP-binding protein SsuB
+c_000000395208	Prodigal:002006	CDS	1463	2275	.	+	0	ID=ANNDHMIN_747912;Name=ribX_322;gene=ribX_322;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:A9WGD1;locus_tag=ANNDHMIN_747912;product=Riboflavin transport system permease protein RibX
+c_000000395209	Prodigal:002006	CDS	427	1293	.	-	0	ID=ANNDHMIN_747913;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747913;product=hypothetical protein
+c_000000395210	Prodigal:002006	CDS	29	334	.	+	0	ID=ANNDHMIN_747914;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747914;product=hypothetical protein
+c_000000395210	Prodigal:002006	CDS	389	544	.	+	0	ID=ANNDHMIN_747915;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747915;product=hypothetical protein
+c_000000395210	Prodigal:002006	CDS	560	793	.	+	0	ID=ANNDHMIN_747916;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747916;product=hypothetical protein
+c_000000395210	Prodigal:002006	CDS	1214	1681	.	-	0	ID=ANNDHMIN_747917;eC_number=1.3.1.-;Name=bacG_60;db_xref=COG:COG1028;gene=bacG_60;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P39644;locus_tag=ANNDHMIN_747917;product=NADPH-dependent reductase BacG
+c_000000395211	Prodigal:002006	CDS	319	429	.	+	0	ID=ANNDHMIN_747918;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747918;product=hypothetical protein
+c_000000395212	Prodigal:002006	CDS	880	1455	.	-	0	ID=ANNDHMIN_747919;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747919;product=hypothetical protein
+c_000000395213	Prodigal:002006	CDS	113	667	.	+	0	ID=ANNDHMIN_747920;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747920;product=hypothetical protein
+c_000000395213	Prodigal:002006	CDS	779	952	.	+	0	ID=ANNDHMIN_747921;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747921;product=hypothetical protein
+c_000000395214	Prodigal:002006	CDS	226	567	.	-	0	ID=ANNDHMIN_747922;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747922;product=hypothetical protein
+c_000000395214	Prodigal:002006	CDS	1288	1956	.	-	0	ID=ANNDHMIN_747923;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747923;product=hypothetical protein
+c_000000395216	Prodigal:002006	CDS	24	371	.	+	0	ID=ANNDHMIN_747924;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747924;product=hypothetical protein
+c_000000395216	Prodigal:002006	CDS	368	1066	.	+	0	ID=ANNDHMIN_747925;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747925;product=hypothetical protein
+c_000000395216	Prodigal:002006	CDS	1113	1535	.	-	0	ID=ANNDHMIN_747926;eC_number=5.3.3.18;Name=paaG_109;db_xref=COG:COG1024;gene=paaG_109;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P77467;locus_tag=ANNDHMIN_747926;product=1%2C2-epoxyphenylacetyl-CoA isomerase
+c_000000395218	Prodigal:002006	CDS	486	728	.	-	0	ID=ANNDHMIN_747927;eC_number=1.17.1.9;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q99RW4;locus_tag=ANNDHMIN_747927;product=Putative formate dehydrogenase
+c_000000395218	Prodigal:002006	CDS	761	925	.	-	0	ID=ANNDHMIN_747928;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747928;product=hypothetical protein
+c_000000395219	Prodigal:002006	CDS	444	602	.	+	0	ID=ANNDHMIN_747929;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747929;product=hypothetical protein
+c_000000395219	Prodigal:002006	CDS	612	1079	.	+	0	ID=ANNDHMIN_747930;Name=rfaH_75;gene=rfaH_75;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00951;locus_tag=ANNDHMIN_747930;product=Transcription antitermination protein RfaH
+c_000000395220	Prodigal:002006	CDS	128	457	.	+	0	ID=ANNDHMIN_747931;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747931;product=hypothetical protein
+c_000000395220	Prodigal:002006	CDS	693	1400	.	-	0	ID=ANNDHMIN_747932;eC_number=6.1.1.7;Name=alaS_103;db_xref=COG:COG0013;gene=alaS_103;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P00957;locus_tag=ANNDHMIN_747932;product=Alanine--tRNA ligase
+c_000000395221	Prodigal:002006	CDS	115	576	.	+	0	ID=ANNDHMIN_747933;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747933;product=hypothetical protein
+c_000000395221	Prodigal:002006	CDS	560	1399	.	-	0	ID=ANNDHMIN_747934;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747934;product=hypothetical protein
+c_000000395222	Prodigal:002006	CDS	639	1220	.	-	0	ID=ANNDHMIN_747935;eC_number=6.2.1.41;Name=fadD3_111;db_xref=COG:COG0318;gene=fadD3_111;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q0S7V5;locus_tag=ANNDHMIN_747935;product=3-[(3aS%2C4S%2C7aS)-7a-methyl-1%2C5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+c_000000395223	Prodigal:002006	CDS	21	527	.	+	0	ID=ANNDHMIN_747936;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747936;product=hypothetical protein
+c_000000395223	Prodigal:002006	CDS	546	674	.	+	0	ID=ANNDHMIN_747937;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747937;product=hypothetical protein
+c_000000395223	Prodigal:002006	CDS	906	2225	.	-	0	ID=ANNDHMIN_747938;eC_number=2.4.1.109;Name=pmt_9;db_xref=COG:COG1928;gene=pmt_9;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WN05;locus_tag=ANNDHMIN_747938;product=putative dolichyl-phosphate-mannose--protein mannosyltransferase
+c_000000395223	Prodigal:002006	CDS	2235	2804	.	-	0	ID=ANNDHMIN_747939;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747939;product=hypothetical protein
+c_000000395224	Prodigal:002006	CDS	19	174	.	+	0	ID=ANNDHMIN_747940;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747940;product=hypothetical protein
+c_000000395224	Prodigal:002006	CDS	246	1847	.	+	0	ID=ANNDHMIN_747941;eC_number=2.1.1.148;Name=thyX_43;gene=thyX_43;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01408;locus_tag=ANNDHMIN_747941;product=Flavin-dependent thymidylate synthase
+c_000000395225	Prodigal:002006	CDS	77	985	.	+	0	ID=ANNDHMIN_747942;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747942;product=hypothetical protein
+c_000000395226	Prodigal:002006	CDS	41	205	.	+	0	ID=ANNDHMIN_747943;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747943;product=hypothetical protein
+c_000000395226	Prodigal:002006	CDS	708	1397	.	-	0	ID=ANNDHMIN_747944;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747944;product=hypothetical protein
+c_000000395228	Prodigal:002006	CDS	242	940	.	+	0	ID=ANNDHMIN_747945;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747945;product=hypothetical protein
+c_000000395229	Prodigal:002006	CDS	521	1018	.	-	0	ID=ANNDHMIN_747946;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747946;product=hypothetical protein
+c_000000395230	Prodigal:002006	CDS	907	1587	.	-	0	ID=ANNDHMIN_747947;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747947;product=hypothetical protein
+c_000000395230	Prodigal:002006	CDS	1584	1781	.	-	0	ID=ANNDHMIN_747948;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747948;product=hypothetical protein
+c_000000395230	Prodigal:002006	CDS	2034	3761	.	-	0	ID=ANNDHMIN_747949;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747949;product=hypothetical protein
+c_000000395230	Prodigal:002006	CDS	3862	4236	.	+	0	ID=ANNDHMIN_747950;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747950;product=hypothetical protein
+c_000000395230	Prodigal:002006	CDS	4329	4556	.	+	0	ID=ANNDHMIN_747951;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747951;product=hypothetical protein
+c_000000395232	Prodigal:002006	CDS	32	1951	.	+	0	ID=ANNDHMIN_747952;Name=dnaK_122;gene=dnaK_122;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q05981;locus_tag=ANNDHMIN_747952;product=Chaperone protein DnaK
+c_000000395232	Prodigal:002006	CDS	2250	2402	.	-	0	ID=ANNDHMIN_747953;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747953;product=hypothetical protein
+c_000000395233	Prodigal:002006	CDS	92	283	.	+	0	ID=ANNDHMIN_747954;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747954;product=hypothetical protein
+c_000000395233	Prodigal:002006	CDS	490	1740	.	+	0	ID=ANNDHMIN_747955;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747955;product=hypothetical protein
+c_000000395234	Prodigal:002006	CDS	46	903	.	+	0	ID=ANNDHMIN_747956;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747956;product=hypothetical protein
+c_000000395234	Prodigal:002006	CDS	792	1487	.	-	0	ID=ANNDHMIN_747957;eC_number=3.5.1.107;Name=nicF_57;db_xref=COG:COG1335;gene=nicF_57;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q88FY5;locus_tag=ANNDHMIN_747957;product=Maleamate amidohydrolase
+c_000000395235	Prodigal:002006	CDS	28	591	.	+	0	ID=ANNDHMIN_747958;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747958;product=hypothetical protein
+c_000000395235	Prodigal:002006	CDS	566	772	.	-	0	ID=ANNDHMIN_747959;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747959;product=hypothetical protein
+c_000000395236	Prodigal:002006	CDS	395	793	.	-	0	ID=ANNDHMIN_747960;db_xref=COG:COG2764;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WKQ3;locus_tag=ANNDHMIN_747960;product=putative protein
+c_000000395237	Prodigal:002006	CDS	26	895	.	+	0	ID=ANNDHMIN_747961;eC_number=3.4.11.5;Name=pip_67;gene=pip_67;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P46547;locus_tag=ANNDHMIN_747961;product=Proline iminopeptidase
+c_000000395237	Prodigal:002006	CDS	870	1151	.	-	0	ID=ANNDHMIN_747962;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747962;product=hypothetical protein
+c_000000395238	Prodigal:002006	CDS	195	1004	.	-	0	ID=ANNDHMIN_747963;eC_number=7.1.1.-;Name=nuoM_92;db_xref=COG:COG1008;gene=nuoM_92;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AFE8;locus_tag=ANNDHMIN_747963;product=NADH-quinone oxidoreductase subunit M
+c_000000395240	Prodigal:002006	CDS	226	2058	.	-	0	ID=ANNDHMIN_747964;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747964;product=hypothetical protein
+c_000000395241	Prodigal:002006	CDS	24	1340	.	+	0	ID=ANNDHMIN_747965;Name=amtB_34;gene=amtB_34;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P69681;locus_tag=ANNDHMIN_747965;product=Ammonia channel
+c_000000395241	Prodigal:002006	CDS	1402	2592	.	-	0	ID=ANNDHMIN_747966;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747966;product=hypothetical protein
+c_000000395242	Prodigal:002006	CDS	8	880	.	+	0	ID=ANNDHMIN_747967;eC_number=2.1.2.1;Name=glyA_48;gene=glyA_48;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P99091;locus_tag=ANNDHMIN_747967;product=Serine hydroxymethyltransferase
+c_000000395243	Prodigal:002006	CDS	43	810	.	+	0	ID=ANNDHMIN_747968;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747968;product=hypothetical protein
+c_000000395243	Prodigal:002006	CDS	704	985	.	-	0	ID=ANNDHMIN_747969;db_xref=COG:COG2409;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WJT9;locus_tag=ANNDHMIN_747969;product=Heme uptake protein MmpL11
+c_000000395244	Prodigal:002006	CDS	162	269	.	+	0	ID=ANNDHMIN_747970;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747970;product=hypothetical protein
+c_000000395244	Prodigal:002006	CDS	434	1120	.	-	0	ID=ANNDHMIN_747971;Name=spaR_2;db_xref=COG:COG4791;gene=spaR_2;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A1M6;locus_tag=ANNDHMIN_747971;product=Surface presentation of antigens protein SpaR
+c_000000395246	Prodigal:002006	CDS	373	1686	.	-	0	ID=ANNDHMIN_747972;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747972;product=hypothetical protein
+c_000000395247	Prodigal:002006	CDS	49	285	.	+	0	ID=ANNDHMIN_747973;Name=pstC_74;db_xref=COG:COG0573;gene=pstC_74;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AGH8;locus_tag=ANNDHMIN_747973;product=Phosphate transport system permease protein PstC
+c_000000395247	Prodigal:002006	CDS	278	1156	.	+	0	ID=ANNDHMIN_747974;Name=pstA_84;db_xref=COG:COG0581;gene=pstA_84;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P07654;locus_tag=ANNDHMIN_747974;product=Phosphate transport system permease protein PstA
+c_000000395248	Prodigal:002006	CDS	145	300	.	+	0	ID=ANNDHMIN_747975;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747975;product=hypothetical protein
+c_000000395248	Prodigal:002006	CDS	369	1193	.	+	0	ID=ANNDHMIN_747976;Name=lapB_61;gene=lapB_61;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00994;locus_tag=ANNDHMIN_747976;product=Lipopolysaccharide assembly protein B
+c_000000395249	Prodigal:002006	CDS	235	1077	.	-	0	ID=ANNDHMIN_747977;eC_number=1.14.14.12;Name=hsaA_114;gene=hsaA_114;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WJA1;locus_tag=ANNDHMIN_747977;product=Flavin-dependent monooxygenase%2C oxygenase subunit HsaA
+c_000000395250	Prodigal:002006	CDS	330	620	.	-	0	ID=ANNDHMIN_747978;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747978;product=hypothetical protein
+c_000000395251	Prodigal:002006	CDS	74	757	.	+	0	ID=ANNDHMIN_747979;eC_number=2.5.1.120;Name=mqnE_35;db_xref=COG:COG1060;gene=mqnE_35;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q5SK48;locus_tag=ANNDHMIN_747979;product=Aminodeoxyfutalosine synthase
+c_000000395251	Prodigal:002006	CDS	751	1164	.	+	0	ID=ANNDHMIN_747980;Name=ble_11;db_xref=COG:COG0346;gene=ble_11;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q7DJ53;locus_tag=ANNDHMIN_747980;product=Bleomycin resistance protein
+c_000000395252	Prodigal:002006	CDS	25	498	.	+	0	ID=ANNDHMIN_747981;eC_number=5.5.1.1;Name=catB_20;db_xref=COG:COG4948;gene=catB_20;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P95608;locus_tag=ANNDHMIN_747981;product=Muconate cycloisomerase 1
+c_000000395252	Prodigal:002006	CDS	503	1201	.	+	0	ID=ANNDHMIN_747982;eC_number=3.8.1.2;Name=hdl IVa_61;gene=hdl IVa_61;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q51645;locus_tag=ANNDHMIN_747982;product=(S)-2-haloacid dehalogenase 4A
+c_000000395252	Prodigal:002006	CDS	1399	2715	.	+	0	ID=ANNDHMIN_747983;eC_number=1.1.1.22;Name=rkpK_53;db_xref=COG:COG1004;gene=rkpK_53;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O54068;locus_tag=ANNDHMIN_747983;product=UDP-glucose 6-dehydrogenase
+c_000000395253	Prodigal:002006	CDS	769	1203	.	-	0	ID=ANNDHMIN_747984;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747984;product=hypothetical protein
+c_000000395254	Prodigal:002006	CDS	999	1418	.	-	0	ID=ANNDHMIN_747985;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747985;product=hypothetical protein
+c_000000395255	Prodigal:002006	CDS	162	1277	.	-	0	ID=ANNDHMIN_747986;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747986;product=hypothetical protein
+c_000000395256	Prodigal:002006	CDS	263	739	.	-	0	ID=ANNDHMIN_747987;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747987;product=hypothetical protein
+c_000000395257	Prodigal:002006	CDS	261	644	.	-	0	ID=ANNDHMIN_747988;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747988;product=hypothetical protein
+c_000000395257	Prodigal:002006	CDS	644	1246	.	-	0	ID=ANNDHMIN_747989;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747989;product=hypothetical protein
+c_000000395258	Prodigal:002006	CDS	57	698	.	+	0	ID=ANNDHMIN_747990;eC_number=3.6.3.-;Name=lptB_706;db_xref=COG:COG1137;gene=lptB_706;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P45073;locus_tag=ANNDHMIN_747990;product=Lipopolysaccharide export system ATP-binding protein LptB
+c_000000395259	Prodigal:002006	CDS	62	196	.	+	0	ID=ANNDHMIN_747991;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747991;product=hypothetical protein
+c_000000395259	Prodigal:002006	CDS	339	1088	.	-	0	ID=ANNDHMIN_747992;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747992;product=hypothetical protein
+c_000000395260	Prodigal:002006	CDS	670	1299	.	-	0	ID=ANNDHMIN_747993;eC_number=4.1.1.65;Name=psd_103;db_xref=COG:COG0688;gene=psd_103;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WHQ5;locus_tag=ANNDHMIN_747993;product=Phosphatidylserine decarboxylase proenzyme
+c_000000395261	Prodigal:002006	CDS	1819	2355	.	+	0	ID=ANNDHMIN_747994;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747994;product=hypothetical protein
+c_000000395262	Prodigal:002006	CDS	9	893	.	-	0	ID=ANNDHMIN_747995;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747995;product=hypothetical protein
+c_000000395263	Prodigal:002006	CDS	59	604	.	-	0	ID=ANNDHMIN_747996;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747996;product=hypothetical protein
+c_000000395264	Prodigal:002006	CDS	214	693	.	+	0	ID=ANNDHMIN_747997;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747997;product=hypothetical protein
+c_000000395264	Prodigal:002006	CDS	734	1360	.	-	0	ID=ANNDHMIN_747998;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P67143;locus_tag=ANNDHMIN_747998;note=UPF0056 inner membrane protein YhgN;product=hypothetical protein
+c_000000395265	Prodigal:002006	CDS	219	440	.	+	0	ID=ANNDHMIN_747999;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_747999;product=hypothetical protein
+c_000000395265	Prodigal:002006	CDS	739	861	.	-	0	ID=ANNDHMIN_748000;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748000;product=hypothetical protein
+c_000000395266	Prodigal:002006	CDS	66	995	.	+	0	ID=ANNDHMIN_748001;eC_number=1.3.3.3;Name=hemF_36;db_xref=COG:COG0408;gene=hemF_36;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P36553;locus_tag=ANNDHMIN_748001;product=Oxygen-dependent coproporphyrinogen-III oxidase
+c_000000395267	Prodigal:002006	CDS	553	756	.	-	0	ID=ANNDHMIN_748002;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748002;product=hypothetical protein
+c_000000395267	Prodigal:002006	CDS	820	1077	.	-	0	ID=ANNDHMIN_748003;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748003;product=hypothetical protein
+c_000000395268	Prodigal:002006	CDS	32	817	.	-	0	ID=ANNDHMIN_748004;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748004;product=hypothetical protein
+c_000000395269	Prodigal:002006	CDS	79	342	.	+	0	ID=ANNDHMIN_748005;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748005;product=hypothetical protein
+c_000000395269	Prodigal:002006	CDS	358	1071	.	+	0	ID=ANNDHMIN_748006;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748006;product=hypothetical protein
+c_000000395269	Prodigal:002006	CDS	1064	2368	.	+	0	ID=ANNDHMIN_748007;eC_number=2.4.99.12;Name=waaA_50;db_xref=COG:COG1519;gene=waaA_50;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AC75;locus_tag=ANNDHMIN_748007;product=3-deoxy-D-manno-octulosonic acid transferase
+c_000000395269	Prodigal:002006	CDS	2361	3368	.	+	0	ID=ANNDHMIN_748008;eC_number=2.7.1.130;Name=lpxK_49;db_xref=COG:COG1663;gene=lpxK_49;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P27300;locus_tag=ANNDHMIN_748008;product=Tetraacyldisaccharide 4'-kinase
+c_000000395269	Prodigal:002006	CDS	3383	3628	.	-	0	ID=ANNDHMIN_748009;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748009;product=hypothetical protein
+c_000000395270	Prodigal:002006	CDS	486	1190	.	-	0	ID=ANNDHMIN_748010;Name=yedZ1_56;db_xref=COG:COG4117;gene=yedZ1_56;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:G8QM62;locus_tag=ANNDHMIN_748010;product=Putative protein-methionine-sulfoxide reductase subunit YedZ1
+c_000000395271	Prodigal:002006	CDS	31	921	.	+	0	ID=ANNDHMIN_748011;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748011;product=hypothetical protein
+c_000000395271	Prodigal:002006	CDS	1058	1294	.	-	0	ID=ANNDHMIN_748012;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748012;product=hypothetical protein
+c_000000395272	Prodigal:002006	CDS	72	476	.	+	0	ID=ANNDHMIN_748013;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748013;product=hypothetical protein
+c_000000395272	Prodigal:002006	CDS	674	937	.	-	0	ID=ANNDHMIN_748014;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748014;product=hypothetical protein
+c_000000395272	Prodigal:002006	CDS	1085	1246	.	-	0	ID=ANNDHMIN_748015;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748015;product=hypothetical protein
+c_000000395273	Prodigal:002006	CDS	69	359	.	+	0	ID=ANNDHMIN_748016;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748016;product=hypothetical protein
+c_000000395273	Prodigal:002006	CDS	474	587	.	+	0	ID=ANNDHMIN_748017;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748017;product=hypothetical protein
+c_000000395273	Prodigal:002006	CDS	633	1013	.	+	0	ID=ANNDHMIN_748018;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748018;product=hypothetical protein
+c_000000395274	Prodigal:002006	CDS	231	962	.	-	0	ID=ANNDHMIN_748019;eC_number=1.1.1.85;Name=leuB_88;db_xref=COG:COG0473;gene=leuB_88;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P30125;locus_tag=ANNDHMIN_748019;product=3-isopropylmalate dehydrogenase
+c_000000395275	Prodigal:002006	CDS	213	341	.	+	0	ID=ANNDHMIN_748020;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748020;product=hypothetical protein
+c_000000395275	Prodigal:002006	CDS	521	811	.	-	0	ID=ANNDHMIN_748021;eC_number=6.3.2.4;Name=ddl_72;gene=ddl_72;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00047;locus_tag=ANNDHMIN_748021;product=D-alanine--D-alanine ligase
+c_000000395276	Prodigal:002006	CDS	263	994	.	-	0	ID=ANNDHMIN_748022;eC_number=1.13.11.39;Name=bphC_77;gene=bphC_77;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8GR45;locus_tag=ANNDHMIN_748022;product=Manganese-dependent 2%2C3-dihydroxybiphenyl 1%2C2-dioxygenase
+c_000000395277	Prodigal:002006	CDS	5	1099	.	+	0	ID=ANNDHMIN_748023;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748023;product=hypothetical protein
+c_000000395277	Prodigal:002006	CDS	1075	1932	.	-	0	ID=ANNDHMIN_748024;eC_number=2.4.1.250;Name=mshA_669;gene=mshA_669;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01695;locus_tag=ANNDHMIN_748024;product=D-inositol-3-phosphate glycosyltransferase
+c_000000395278	Prodigal:002006	CDS	131	346	.	+	0	ID=ANNDHMIN_748025;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748025;product=hypothetical protein
+c_000000395278	Prodigal:002006	CDS	270	590	.	-	0	ID=ANNDHMIN_748026;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748026;product=hypothetical protein
+c_000000395279	Prodigal:002006	CDS	110	778	.	+	0	ID=ANNDHMIN_748027;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748027;product=hypothetical protein
+c_000000395279	Prodigal:002006	CDS	884	1054	.	-	0	ID=ANNDHMIN_748028;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748028;product=hypothetical protein
+c_000000395279	Prodigal:002006	CDS	1082	1321	.	+	0	ID=ANNDHMIN_748029;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748029;product=hypothetical protein
+c_000000395280	Prodigal:002006	CDS	1	324	.	+	0	ID=ANNDHMIN_748030;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748030;product=hypothetical protein
+c_000000395280	Prodigal:002006	CDS	392	820	.	+	0	ID=ANNDHMIN_748031;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748031;product=hypothetical protein
+c_000000395281	Prodigal:002006	CDS	22	345	.	+	0	ID=ANNDHMIN_748032;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748032;product=hypothetical protein
+c_000000395281	Prodigal:002006	CDS	644	988	.	-	0	ID=ANNDHMIN_748033;eC_number=2.6.1.62;Name=bioA_51;db_xref=COG:COG0161;gene=bioA_51;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P12995;locus_tag=ANNDHMIN_748033;product=Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+c_000000395282	Prodigal:002006	CDS	112	1266	.	+	0	ID=ANNDHMIN_748034;eC_number=1.1.1.179;Name=xdh_31;gene=xdh_31;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q8GAK6;locus_tag=ANNDHMIN_748034;product=D-xylose dehydrogenase
+c_000000395282	Prodigal:002006	CDS	1277	2443	.	+	0	ID=ANNDHMIN_748035;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748035;product=hypothetical protein
+c_000000395283	Prodigal:002006	CDS	14	394	.	+	0	ID=ANNDHMIN_748036;eC_number=1.4.1.1;Name=ala_87;gene=ala_87;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00935;locus_tag=ANNDHMIN_748036;product=Alanine dehydrogenase
+c_000000395283	Prodigal:002006	CDS	574	1635	.	+	0	ID=ANNDHMIN_748037;eC_number=1.5.1.49;Name=arcB_74;gene=arcB_74;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q63FA5;locus_tag=ANNDHMIN_748037;product=Delta(1)-pyrroline-2-carboxylate reductase
+c_000000395283	Prodigal:002006	CDS	1772	2164	.	-	0	ID=ANNDHMIN_748038;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748038;product=hypothetical protein
+c_000000395284	Prodigal:002006	CDS	13	1011	.	+	0	ID=ANNDHMIN_748039;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WFP3;locus_tag=ANNDHMIN_748039;note=UPF0053 protein Rv1842c;product=hypothetical protein
+c_000000395285	Prodigal:002006	CDS	451	945	.	+	0	ID=ANNDHMIN_748040;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748040;product=hypothetical protein
+c_000000395286	Prodigal:002006	CDS	552	752	.	+	0	ID=ANNDHMIN_748041;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748041;product=hypothetical protein
+c_000000395286	Prodigal:002006	CDS	1085	2206	.	+	0	ID=ANNDHMIN_748042;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748042;product=hypothetical protein
+c_000000395287	Prodigal:002006	CDS	433	735	.	+	0	ID=ANNDHMIN_748043;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748043;product=hypothetical protein
+c_000000395287	Prodigal:002006	CDS	953	1204	.	-	0	ID=ANNDHMIN_748044;Name=baeR_38;db_xref=COG:COG0745;gene=baeR_38;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P69228;locus_tag=ANNDHMIN_748044;product=Transcriptional regulatory protein BaeR
+c_000000395288	Prodigal:002006	CDS	18	875	.	+	0	ID=ANNDHMIN_748045;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748045;product=hypothetical protein
+c_000000395288	Prodigal:002006	CDS	965	1414	.	+	0	ID=ANNDHMIN_748046;eC_number=1.3.99.16;Name=iorA_198;gene=iorA_198;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q51697;locus_tag=ANNDHMIN_748046;product=Isoquinoline 1-oxidoreductase subunit alpha
+c_000000395288	Prodigal:002006	CDS	1393	1605	.	-	0	ID=ANNDHMIN_748047;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748047;product=hypothetical protein
+c_000000395288	Prodigal:002006	CDS	1693	2070	.	-	0	ID=ANNDHMIN_748048;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748048;product=hypothetical protein
+c_000000395288	Prodigal:002006	CDS	2095	2328	.	-	0	ID=ANNDHMIN_748049;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748049;product=hypothetical protein
+c_000000395289	Prodigal:002006	CDS	469	612	.	-	0	ID=ANNDHMIN_748050;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748050;product=hypothetical protein
+c_000000395290	Prodigal:002006	CDS	47	616	.	+	0	ID=ANNDHMIN_748051;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748051;product=hypothetical protein
+c_000000395290	Prodigal:002006	CDS	877	1263	.	-	0	ID=ANNDHMIN_748052;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748052;product=hypothetical protein
+c_000000395291	Prodigal:002006	CDS	757	1365	.	-	0	ID=ANNDHMIN_748053;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748053;product=hypothetical protein
+c_000000395292	Prodigal:002006	CDS	773	994	.	-	0	ID=ANNDHMIN_748054;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748054;product=hypothetical protein
+c_000000395293	Prodigal:002006	CDS	21	1262	.	+	0	ID=ANNDHMIN_748055;db_xref=COG:COG0659;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WGF7;locus_tag=ANNDHMIN_748055;product=putative sulfate transporter
+c_000000395294	Prodigal:002006	CDS	31	408	.	+	0	ID=ANNDHMIN_748056;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748056;product=hypothetical protein
+c_000000395294	Prodigal:002006	CDS	521	1153	.	-	0	ID=ANNDHMIN_748057;eC_number=1.2.1.5;Name=aldHT_40;gene=aldHT_40;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P42329;locus_tag=ANNDHMIN_748057;product=Aldehyde dehydrogenase%2C thermostable
+c_000000395295	Prodigal:002006	CDS	366	470	.	-	0	ID=ANNDHMIN_748058;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748058;product=hypothetical protein
+c_000000395296	Prodigal:002006	CDS	229	1167	.	+	0	ID=ANNDHMIN_748059;inference=ab initio prediction:Prodigal:002006;locus_tag=ANNDHMIN_748059;product=hypothetical protein
