@@ -7,6 +7,7 @@
 
 import gffutils
 import argparse
+import sys
 
 from collections import Counter
 
@@ -20,6 +21,7 @@ parser.add_argument('--process-all', default=False, action="store_true", help="P
                     other genetic structures that are not nessecarily translatable, and can cause downstream issues especially if you would like to\
                     use your annotations in contigs databases for pangenomic analyses. As a precation this script only recovers open reading frames\
                     identifie dby Prodigal. Using this flag, you can import everything.")
+parser.add_argument('--source', default='Prokka', help='Source of gene calls (Prokka or IMG) (Default: Prokka)')
 
 args = parser.parse_args()
 
@@ -27,6 +29,16 @@ args = parser.parse_args()
 GFF = args.gff_file
 OUT_CDS = open(args.gene_calls, 'w')
 OUT_ANNO = open(args.annotation, 'w')
+
+#Check gene caller
+SOURCE = args.source
+if SOURCE == 'Prokka':
+    SEP = ':'
+elif SOURCE == 'IMG':
+    SEP = ' '
+else:
+    print(SOURCE, "is not an available gene caller.")
+    sys.exit()
 
 #load in the GFF3 file
 db = gffutils.create_db(GFF, ':memory:')
@@ -49,7 +61,7 @@ features_missing_product_or_note = 0
 for feature in db.all_features():
     total_num_features += 1
     # determine source
-    source, version = feature.source.split(':')
+    source, version = feature.source.split(SEP, 1)
 
     # move on if not Prodigal, unless the user wants it badly
     if not args.process_all:
@@ -105,7 +117,7 @@ for feature in db.all_features():
             direction='r'
 
     OUT_CDS.write('%d\t%s\t%d\t%d\t%s\t%s\t%d\t%s\t%s\n' % (gene_id, feature.seqid, start, stop, direction, partial, call_type, source, version))
-    OUT_ANNO.write('%d\t%s:%s\t%s\t%s\t%s\n' % (gene_id, 'Prokka', source, gene_acc, product, e_value))
+    OUT_ANNO.write('%d\t%s:%s\t%s\t%s\t%s\n' % (gene_id, SOURCE, source, gene_acc, product, e_value))
 
     gene_id = gene_id + 1
 
