@@ -1,7 +1,8 @@
 # gff_parser
 Python parser to add external gene calls and functional annotation from Prokka
-or IMG to Anvi'o.
-Uses Python3 and gffutils package (https://github.com/daler/gffutils)
+or IMG to Anvi'o.  
+Uses Python3 and gffutils package (https://github.com/daler/gffutils).  
+Install using conda: `conda install -c bioconda gffutils`
 
 Annotate your genome/metagenome with Prokka or download annotations from the IMG
 database.
